@@ -1,0 +1,59 @@
+- var _ = require('lodash')
+- var sprintf = require('sprintf')
+
+html
+  head
+    link(rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous")
+    title 打卡群积分榜
+  body
+    .container
+      h1 打卡群积分榜
+      table.score-table.table.table-bordered.table-sm
+        tr
+          th Contest
+          each contest in contests
+            th(colspan=2) #{contest.title}
+          th Score
+        tr
+          th Participators
+          each contest in contests
+            th(colspan=2) #{contest.players}
+          th
+        each record in records
+          tr
+            td
+              a(href='https://leetcode.com/'+record.id.toLowerCase()+'/' target='_blank') #{record.nickname}
+            each contest in record.contests
+              if contest
+                td(class='solved-'+contest.solved) #{contest.ranking}
+                td(class='solved-'+contest.solved) #{sprintf("%.1f",contest.score)}
+              else
+                td.solved-0
+                td.solved-0
+            td #{sprintf("%.1f",record.score)}
+
+    style.
+      h1 {
+        text-align: center;
+        margin: 1rem;
+      }
+      .score-table {
+        text-align: center;
+      }
+      .score-table th {
+      }
+      .score-table .solved-4 {
+        background: green;
+      }
+      .score-table .solved-3 {
+        background: olive;
+      }
+      .score-table .solved-2 {
+        background: yellow;
+      }
+      .score-table .solved-1 {
+        background: cyan;
+      }
+      .score-table .solved-0 {
+        background: gray;
+      }

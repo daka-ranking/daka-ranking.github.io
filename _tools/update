@@ -1,0 +1,81 @@
+#!/usr/bin/env node
+
+var data = require('./data');
+var crawler = require('./crawler');
+var pug = require('pug');
+var fs = require('fs');
+var config = require('./config');
+var _ = require('lodash');
+
+function render(fname, ctx) {
+  var tmp = fs.readFileSync(fname, 'utf-8');
+  ctx = ctx || {};
+  ctx.require = x => require(x);
+  return pug.render(tmp, ctx);
+}
+
+function prepare(ctx) {
+  var contestRecordsById = ctx.contests.map(c => _.keyBy(c.records, 'id'));
+
+  var records = [];
+  for (var m of ctx.members) {
+    var record = {
+      id: m.id,
+      nickname: m.nickname,
+      contests: [],
+    };
+
+    for (var i = 0; i < contestRecordsById.length; ++i) {
+      var rw = contestRecordsById[i];
+      var c = ctx.contests[i];
+
+      if (m.id in rw) {
+        var score = (1 - rw[m.id].ranking / ctx.contests[i].players) * 80 +
+                    rw[m.id].solved.reduce((a,b) => a+b) * 5;
+        record.contests.push({
+          ranking: rw[m.id].ranking,
+          solved: rw[m.id].solved.reduce((a,b) => a+b),
+          score: score,
+          players: ctx.contests[i].players,
+        });
+      } else {
+        record.contests.push(null);
+      }
+
+      var scores = record.contests.map(x => x ? x.score : 0);
+      record.score = scores.slice(-3).sort().slice(-2).reduce((a,b) => a+b) / 2;
+    }
+
+    records.push(record);
+  }
+
+  records.sort((a,b) => b.score - a.score);
+
+  ctx.records = records;
+}
+
+async function main() {
+  var ctx = {
+    contests: [],
+    members: config.members,
+  };
+
+  var contests = await crawler.fetch_contests();
+
+  contests = contests.slice(0, config.recents);
+  contests.reverse();
+  for (var c of contests) {
+    var cc = await data.contest_data(c.titleSlug);
+    cc.title = c.title;
+    ctx.contests.push(cc);
+  }
+
+  prepare(ctx);
+
+  var html = render(`${__dirname}/index.pug`, ctx);
+  fs.writeFileSync(`${__dirname}/../index.html`, html, 'utf-8');
+
+  console.log('index.html updated');
+}
+
+main().catch(console.error);

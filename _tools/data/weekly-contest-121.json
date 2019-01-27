@@ -1,0 +1,765 @@
+{
+  "questions": [
+    {
+      "id": 552,
+      "question_id": 1026,
+      "credit": 4,
+      "title": "String Without AAA or BBB",
+      "title_slug": "string-without-aaa-or-bbb"
+    },
+    {
+      "id": 553,
+      "question_id": 1023,
+      "credit": 5,
+      "title": "Time Based Key-Value Store",
+      "title_slug": "time-based-key-value-store"
+    },
+    {
+      "id": 554,
+      "question_id": 1025,
+      "credit": 5,
+      "title": "Minimum Cost For Tickets",
+      "title_slug": "minimum-cost-for-tickets"
+    },
+    {
+      "id": 555,
+      "question_id": 1024,
+      "credit": 7,
+      "title": "Triples with Bitwise AND Equal To Zero",
+      "title_slug": "triples-with-bitwise-and-equal-to-zero"
+    }
+  ],
+  "records": [
+    {
+      "id": "pjincz",
+      "ranking": 7,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "cuiaoxiang",
+      "ranking": 39,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "ForGive",
+      "ranking": 61,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "leoknuth",
+      "ranking": 103,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "QAMichaelPeng",
+      "ranking": 109,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "shshwdr",
+      "ranking": 111,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "Brooky",
+      "ranking": 169,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "galiniunan",
+      "ranking": 184,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "jianzhun",
+      "ranking": 205,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "Coder35",
+      "ranking": 218,
+      "solved": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "id": "haitao7",
+      "ranking": 250,
+      "solved": [
+        true,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "id": "hfuwu5",
+      "ranking": 268,
+      "solved": [
+        true,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "id": "Charles000",
+      "ranking": 271,
+      "solved": [
+        true,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "id": "OneDirection",
+      "ranking": 276,
+      "solved": [
+        true,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "id": "yueb95",
+      "ranking": 419,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "dhf13",
+      "ranking": 430,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "siqiaochen",
+      "ranking": 488,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "wisdompeak",
+      "ranking": 492,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "kaihaohust",
+      "ranking": 497,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "ZhuYamei",
+      "ranking": 506,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "yexiaoxiao2102",
+      "ranking": 541,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "Vicky_Owen",
+      "ranking": 560,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "XingxingHuang",
+      "ranking": 561,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "jliang",
+      "ranking": 579,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "softair",
+      "ranking": 617,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "bifeitang",
+      "ranking": 621,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "whe_bupt",
+      "ranking": 625,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "xxnzym",
+      "ranking": 629,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "IrisGuo",
+      "ranking": 637,
+      "solved": [
+        true,
+        true,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "wendyimayday",
+      "ranking": 721,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "wobuxihuannile",
+      "ranking": 740,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "Ansonluo",
+      "ranking": 769,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "Aaron_S",
+      "ranking": 789,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "dennanisny",
+      "ranking": 790,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "supersam331",
+      "ranking": 792,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "Shaotong",
+      "ranking": 798,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "LittleBaldHead",
+      "ranking": 806,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "jmzhang18",
+      "ranking": 811,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "fuxuemingzhu",
+      "ranking": 828,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "Lisanaaa",
+      "ranking": 883,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "icodingg",
+      "ranking": 897,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "deerstalker",
+      "ranking": 908,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "bellumpara",
+      "ranking": 913,
+      "solved": [
+        true,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "wyzhang421",
+      "ranking": 1092,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "SeymourLee",
+      "ranking": 1114,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "liulaoye135",
+      "ranking": 1153,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "Suhe",
+      "ranking": 1275,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "ZOEGREEN",
+      "ranking": 1280,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "xfzhao",
+      "ranking": 1297,
+      "solved": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "got7amy",
+      "ranking": 1373,
+      "solved": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "sdliuyuzhi",
+      "ranking": 1463,
+      "solved": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "TOYAMA_NAO",
+      "ranking": 1573,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "gzh47",
+      "ranking": 1641,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "davidqing1991",
+      "ranking": 1642,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "yuliangjin",
+      "ranking": 1665,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "TianSkyer",
+      "ranking": 1754,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "memoryfraction",
+      "ranking": 1762,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "zhangsikai123",
+      "ranking": 1778,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "zihao",
+      "ranking": 1838,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "zchen9523",
+      "ranking": 1860,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "keyupeter",
+      "ranking": 1900,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "lulinzhang1124",
+      "ranking": 1917,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "DorisGe",
+      "ranking": 1959,
+      "solved": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "sissishiny",
+      "ranking": 2217,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "XYang93",
+      "ranking": 2521,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "fyang618",
+      "ranking": 2587,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "KyleAC",
+      "ranking": 2713,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "jiang718",
+      "ranking": 2778,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "Clary",
+      "ranking": 2851,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "ws1255",
+      "ranking": 3003,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "yykfight",
+      "ranking": 3079,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "user4286",
+      "ranking": 3491,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "whe_bupt",
+      "ranking": 3826,
+      "solved": [
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "players": 3924
+}

@@ -1,0 +1,19 @@
+{
+  "name": "daka-ranking-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0",
+    "node-fetch-retry": "^1.0.1",
+    "promise-map-limit": "^1.0.0",
+    "pug": "^2.0.3",
+    "sprintf": "^0.1.5"
+  }
+}
