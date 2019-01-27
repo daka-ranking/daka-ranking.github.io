@@ -4,6 +4,9 @@
 
 ### 首次使用
 
+使用时需要按照node.js。推荐直接安装官网稳定版。
+https://nodejs.org/en/
+
 ```
 $ git clone https://github.com/daka-ranking/daka-ranking.github.io
 $ cd daka-ranking.github.io/_tools
