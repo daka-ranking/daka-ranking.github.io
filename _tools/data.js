@@ -8,6 +8,8 @@ async function contest_data_raw(slug) {
   var exists = fs.existsSync(fname);
   if (!exists) {
     var cont = await crawler.fetch_contest(slug);
+    if (!cont)
+      return;
     fs.writeFileSync(fname, JSON.stringify(cont, null, 2), 'utf-8');
   }
   return JSON.parse(fs.readFileSync(fname, 'utf-8'));
@@ -42,14 +44,10 @@ function convert(raw, users) {
 }
 
 exports.contest_data = async function contest_data(slug) {
-  var fname = `${__dirname}/data/${slug}.json`;
-  var exists = fs.existsSync(fname);
-  if (!exists) {
-    var raw = await contest_data_raw(slug);
-    cont = convert(raw, config.members);
-    fs.writeFileSync(fname, JSON.stringify(cont, null, 2), 'utf-8');
-  }
-  return JSON.parse(fs.readFileSync(fname, 'utf-8'));
+  var raw = await contest_data_raw(slug);
+  if (!raw)
+    return;
+  return convert(raw, config.members);
 }
 
 async function test() {

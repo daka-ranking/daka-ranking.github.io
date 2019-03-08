@@ -62,13 +62,16 @@ async function main() {
 
   var contests = await crawler.fetch_contests();
 
-  contests = contests.slice(0, config.recents);
-  contests.reverse();
   for (var c of contests) {
     var cc = await data.contest_data(c.titleSlug);
+    if (!cc)
+      continue;
     cc.title = c.title;
     ctx.contests.push(cc);
+    if (ctx.contests.length >= config.recents)
+      break;
   }
+  ctx.contests.reverse();
 
   prepare(ctx);
 

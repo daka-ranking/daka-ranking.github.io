@@ -31,6 +31,8 @@ async function fetch_contest_page(slug, page) {
 
 exports.fetch_contest = async function(slug) {
   var page1 = await fetch_contest_page(slug, 1);
+  if (!page1.total_rank)
+    return;
   var npage = Math.ceil(page1.user_num / page1.total_rank.length);
 
   var tasks = new Array(npage - 1).fill().map((x,i) => i+2);
