@@ -4,20 +4,22 @@
 html
   head
     link(rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous")
+    link(rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" crossorigin="anonymous")
     title 打卡群积分榜
   body
     .container
       h1 打卡群积分榜
-      table.score-table.table.table-bordered.table-sm
+      table.score-table.table.table-bordered.table-sm.table-hover
         tr
           th Contest
           each contest in contests
-            th(colspan=2) #{contest.title}
+            th(colspan=3)
+              a(href='https://leetcode.com/contest/' + contest.titleSlug) #{contest.title}
           th Score
         tr
           th Participants
           each contest in contests
-            th(colspan=2) #{contest.players}
+            th(colspan=3) #{contest.players}
           th
         each record in records
           tr
@@ -25,11 +27,18 @@ html
               a(href='https://leetcode.com/'+record.id.toLowerCase()+'/' target='_blank') #{record.nickname}
             each contest in record.contests
               if contest
-                td(class='solved-'+contest.solved) #{contest.ranking}
-                td(class='solved-'+contest.solved) #{sprintf("%.1f",contest.score)}
+                td #{contest.ranking}
+                td
+                  each s in contest.solved
+                    if s
+                      .fa.fa-star
+                    else
+                      .fa.fa-star-o
+                td #{sprintf("%.1f",contest.score)}
               else
-                td.solved-0
-                td.solved-0
+                td
+                td
+                td
             td #{sprintf("%.1f",record.score)}
 
     style.
@@ -42,18 +51,10 @@ html
       }
       .score-table th {
       }
-      .score-table .solved-4 {
-        background: green;
+      .score-table td {
+        min-height: 2rem;
+        vertical-align: middle;
       }
-      .score-table .solved-3 {
-        background: olive;
-      }
-      .score-table .solved-2 {
-        background: yellow;
-      }
-      .score-table .solved-1 {
-        background: cyan;
-      }
-      .score-table .solved-0 {
-        background: gray;
+      a:hover {
+        text-decoration: none !important;
       }

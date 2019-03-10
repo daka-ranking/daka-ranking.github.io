@@ -34,7 +34,7 @@ function prepare(ctx) {
                     rw[m.id].solved.reduce((a,b) => a+b) * 5;
         record.contests.push({
           ranking: rw[m.id].ranking,
-          solved: rw[m.id].solved.reduce((a,b) => a+b),
+          solved: rw[m.id].solved,
           score: score,
           players: ctx.contests[i].players,
         });
@@ -67,6 +67,7 @@ async function main() {
     if (!cc)
       continue;
     cc.title = c.title;
+    cc.titleSlug = c.titleSlug;
     ctx.contests.push(cc);
     if (ctx.contests.length >= config.recents)
       break;
