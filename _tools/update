@@ -43,7 +43,7 @@ function prepare(ctx) {
       }
 
       var scores = record.contests.map(x => x ? x.score : 0);
-      record.score = scores.slice(-3).sort().slice(-2).reduce((a,b) => a+b) / 2;
+      record.score = scores[scores.length - 1];
     }
 
     records.push(record);

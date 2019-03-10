@@ -1,5 +1,5 @@
 module.exports = {
-  recents: 3,
+  recents: 5,
   members: [
     { id: 'pjincz', nickname: '洗剪吹总监' },
     { id: 'cuiaoxiang', nickname: 'cuiaoxiang' },
@@ -13,6 +13,21 @@ module.exports = {
     { id: 'bifeitang', nickname: '蔽芾棠' },
     { id: 'Aaron_S', nickname: 'Aaron' },
     { id: 'lulinzhang1124', nickname: 'Lulin' },
+    { id: 'whe_bupt', nickname: '旺旺' },
+    { id: 'cookiecookie', nickname: '婷婷大熊猫' },
+    { id: 'kaizer87', nickname: '🎶🎶🎶' },
+    { id: 'huyouhyw', nickname: '忽悠' },
+    { id: 'huange', nickname: '怪懒懒' },
+    { id: 'keyupeter', nickname: '于可 Peter' },
+    { id: 'bellumpara', nickname: 'Drowning Fish' },
+    { id: 'ForGive', nickname: 'Fan Liu' },
+    { id: 'banrenmasanxing', nickname: '杨左使' },
+    { id: 'yykfight', nickname: '俞盈克💪' },
+    { id: 'liulaoye135', nickname: 'WorkHardSoMyCatCanHavABetterLife' },
+    { id: 'siqiaochen', nickname: 'Philip' },
+    { id: 'XYang93', nickname: '°' },
+    { id: 'softair', nickname: '程川' },
+    { id: 'OneDirection', nickname: 'Warmer' },
   ],
 };
 
