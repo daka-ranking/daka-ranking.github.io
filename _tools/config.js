@@ -35,6 +35,7 @@ module.exports = {
     { id: 'user4286', nickname: 'coo' },
     { id: 'jliang', nickname: '🐻' },
     { id: 'chanceliu', nickname: '刘畅斯 Chance' },
+    { id: 'yexiaoxiao2102', nickname: '小叶叶叶叶叶叶' },
   ],
 };
 
