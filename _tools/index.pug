@@ -24,9 +24,10 @@ html
         each record in records
           tr
             td
-              a(href='https://leetcode.com/'+record.id.toLowerCase()+'/' target='_blank')
+              a.nickname(href='https://leetcode.com/'+record.id.toLowerCase()+'/' target='_blank')
                 img(src='./avatars/'+record.id+'.png')
-                | #{record.nickname}
+                span  
+                span #{record.nickname}
             each contest in record.contests
               if contest
                 td #{contest.ranking}
@@ -63,6 +64,8 @@ html
       }
       .score-table td:nth-child(1) {
         text-align: left;
+        white-space: nowrap;
+        padding: 0.5em 1em;
       }
       .score-table img {
         height: 32px;
@@ -70,4 +73,11 @@ html
       }
       a:hover {
         text-decoration: none !important;
+      }
+      .nickname {
+        display: inline-block;
+        width: 200px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
       }
