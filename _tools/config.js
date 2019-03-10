@@ -44,6 +44,7 @@ module.exports = {
     { id: 'Ansonluo1', nickname: 'Anson' },
     { id: 'icodingg', nickname: '暮鼓晨钟' },
     { id: 'zchen9523', nickname: '知知🥗🥗' },
+    { id: 'discipline_', nickname: '舟' },
   ],
 };
 
