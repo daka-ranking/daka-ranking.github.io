@@ -18,7 +18,7 @@ module.exports = {
     { id: 'kaizer87', nickname: '🎶🎶🎶' },
     { id: 'huyouhyw', nickname: '忽悠' },
     { id: 'huange', nickname: '怪懒懒' },
-    { id: 'keyupeter', nickname: '于可 Peter' },
+    { id: 'keyupeter', nickname: '于可 Peter🚇' },
     { id: 'bellumpara', nickname: 'Drowning Fish' },
     { id: 'ForGive', nickname: 'Fan Liu' },
     { id: 'banrenmasanxing', nickname: '杨左使' },
@@ -30,6 +30,11 @@ module.exports = {
     { id: 'OneDirection', nickname: 'Warmer' },
     { id: 'wyzhang421', nickname: 'Wanying Zhang' },
     { id: 'mengqiang', nickname: '米兰的小铁匠' },
+    { id: 'xfzhao', nickname: 'edu' },
+    { id: 'hfuwu5', nickname: 'Andrew' },
+    { id: 'user4286', nickname: 'coo' },
+    { id: 'jliang', nickname: '🐻' },
+    { id: 'chanceliu', nickname: '刘畅斯 Chance' },
   ],
 };
 

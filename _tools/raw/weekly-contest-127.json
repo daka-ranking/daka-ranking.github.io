@@ -1,5 +1,5 @@
 {
-  "time": 1552191496.2901237,
+  "time": 1552191950.7979496,
   "is_past": true,
   "submissions": [
     {
@@ -93234,10 +93234,10 @@
     },
     {
       "1047": {
-        "id": 1113956,
-        "date": 1552189986,
+        "id": 1102676,
+        "date": 1552186392,
         "question_id": 1047,
-        "submission_id": 213649332,
+        "submission_id": 213625380,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93246,10 +93246,22 @@
     },
     {
       "1047": {
-        "id": 1114695,
-        "date": 1552190291,
+        "id": 1102694,
+        "date": 1552186395,
         "question_id": 1047,
-        "submission_id": 213651198,
+        "submission_id": 213625409,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1103857,
+        "date": 1552186716,
+        "question_id": 1047,
+        "submission_id": 213627662,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93258,22 +93270,34 @@
     },
     {
       "1047": {
-        "id": 1112570,
-        "date": 1552189418,
+        "id": 1103879,
+        "date": 1552186721,
         "question_id": 1047,
-        "submission_id": 213645976,
+        "submission_id": 213627700,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 3
+        "fail_count": 0
       }
     },
     {
       "1047": {
-        "id": 1114150,
-        "date": 1552190068,
+        "id": 1103928,
+        "date": 1552186733,
         "question_id": 1047,
-        "submission_id": 213649823,
+        "submission_id": 213627797,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1102830,
+        "date": 1552186443,
+        "question_id": 1047,
+        "submission_id": 213625690,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93282,46 +93306,10 @@
     },
     {
       "1047": {
-        "id": 1113558,
-        "date": 1552189816,
+        "id": 1102840,
+        "date": 1552186448,
         "question_id": 1047,
-        "submission_id": 213648369,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 2
-      }
-    },
-    {
-      "1047": {
-        "id": 1111214,
-        "date": 1552188927,
-        "question_id": 1047,
-        "submission_id": 213642890,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 5
-      }
-    },
-    {
-      "1047": {
-        "id": 1111231,
-        "date": 1552188933,
-        "question_id": 1047,
-        "submission_id": 213642937,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 5
-      }
-    },
-    {
-      "1047": {
-        "id": 1114322,
-        "date": 1552190149,
-        "question_id": 1047,
-        "submission_id": 213650285,
+        "submission_id": 213625716,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93329,11 +93317,23 @@
       }
     },
     {
-      "1048": {
-        "id": 1114402,
-        "date": 1552190177,
-        "question_id": 1048,
-        "submission_id": 213650468,
+      "1047": {
+        "id": 1104032,
+        "date": 1552186760,
+        "question_id": 1047,
+        "submission_id": 213628002,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1102899,
+        "date": 1552186462,
+        "question_id": 1047,
+        "submission_id": 213625832,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93341,23 +93341,35 @@
       }
     },
     {
-      "1048": {
-        "id": 1113709,
-        "date": 1552189881,
-        "question_id": 1048,
-        "submission_id": 213648750,
+      "1047": {
+        "id": 1104090,
+        "date": 1552186777,
+        "question_id": 1047,
+        "submission_id": 213628132,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 2
+        "fail_count": 0
       }
     },
     {
-      "1048": {
-        "id": 1113764,
-        "date": 1552189900,
-        "question_id": 1048,
-        "submission_id": 213648862,
+      "1047": {
+        "id": 48848,
+        "date": 1552186801,
+        "question_id": 1047,
+        "submission_id": 14304203,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1102003,
+        "date": 1552186205,
+        "question_id": 1047,
+        "submission_id": 213624008,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93366,22 +93378,22 @@
     },
     {
       "1047": {
-        "id": 1112272,
-        "date": 1552189302,
+        "id": 1104231,
+        "date": 1552186813,
         "question_id": 1047,
-        "submission_id": 213645264,
+        "submission_id": 213628400,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 4
+        "fail_count": 0
       }
     },
     {
       "1047": {
-        "id": 1114556,
-        "date": 1552190237,
+        "id": 1103105,
+        "date": 1552186520,
         "question_id": 1047,
-        "submission_id": 213650844,
+        "submission_id": 213626227,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93389,23 +93401,35 @@
       }
     },
     {
-      "1048": {
-        "id": 1111595,
-        "date": 1552189061,
-        "question_id": 1048,
-        "submission_id": 213643718,
+      "1047": {
+        "id": 1103134,
+        "date": 1552186528,
+        "question_id": 1047,
+        "submission_id": 213626287,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 5
+        "fail_count": 1
       }
     },
     {
       "1047": {
-        "id": 1113910,
-        "date": 1552189966,
+        "id": 1103138,
+        "date": 1552186528,
         "question_id": 1047,
-        "submission_id": 213649211,
+        "submission_id": 213626292,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1102087,
+        "date": 1552186229,
+        "question_id": 1047,
+        "submission_id": 213624188,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93414,10 +93438,46 @@
     },
     {
       "1047": {
-        "id": 1114057,
-        "date": 1552190027,
+        "id": 48554,
+        "date": 1552186230,
         "question_id": 1047,
-        "submission_id": 213649585,
+        "submission_id": 14303342,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1103207,
+        "date": 1552186543,
+        "question_id": 1047,
+        "submission_id": 213626404,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1104353,
+        "date": 1552186846,
+        "question_id": 1047,
+        "submission_id": 213628648,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1102154,
+        "date": 1552186248,
+        "question_id": 1047,
+        "submission_id": 213624334,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
@@ -93426,110 +93486,50 @@
     },
     {
       "1047": {
-        "id": 1110270,
-        "date": 1552188593,
+        "id": 1104547,
+        "date": 1552186903,
         "question_id": 1047,
-        "submission_id": 213640753,
+        "submission_id": 213629067,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 7
-      }
-    },
-    {
-      "1048": {
-        "id": 1112806,
-        "date": 1552189505,
-        "question_id": 1048,
-        "submission_id": 213646514,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 4
+        "fail_count": 0
       }
     },
     {
       "1047": {
-        "id": 1112965,
-        "date": 1552189566,
+        "id": 1104666,
+        "date": 1552186933,
         "question_id": 1047,
-        "submission_id": 213646889,
+        "submission_id": 213629296,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 4
-      }
-    },
-    {
-      "1048": {
-        "id": 1114473,
-        "date": 1552190206,
-        "question_id": 1048,
-        "submission_id": 213650643,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 2
+        "fail_count": 0
       }
     },
     {
       "1047": {
-        "id": 1113955,
-        "date": 1552189986,
+        "id": 1104725,
+        "date": 1552186948,
         "question_id": 1047,
-        "submission_id": 213649331,
+        "submission_id": 213629414,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 3
+        "fail_count": 0
       }
     },
     {
       "1047": {
-        "id": 1113985,
-        "date": 1552189997,
+        "id": 1104739,
+        "date": 1552186953,
         "question_id": 1047,
-        "submission_id": 213649407,
+        "submission_id": 213629440,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 3
-      }
-    },
-    {
-      "1048": {
-        "id": 1114777,
-        "date": 1552190320,
-        "question_id": 1048,
-        "submission_id": 213651379,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 2
-      }
-    },
-    {
-      "1047": {
-        "id": 1114075,
-        "date": 1552190033,
-        "question_id": 1047,
-        "submission_id": 213649630,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 3
-      }
-    },
-    {
-      "1047": {
-        "id": 1113360,
-        "date": 1552189736,
-        "question_id": 1047,
-        "submission_id": 213647888,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 4
+        "fail_count": 0
       }
     },
     {
@@ -93834,62 +93834,304 @@
     },
     {
       "1047": {
-        "id": 1114521,
-        "date": 1552190224,
+        "id": 1104352,
+        "date": 1552186846,
         "question_id": 1047,
-        "submission_id": 213650762,
+        "submission_id": 213628647,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 12
-      }
-    },
-    {
-      "1048": {
-        "id": 1114677,
-        "date": 1552190283,
-        "question_id": 1048,
-        "submission_id": 213651149,
-        "status": 10,
-        "contest_id": 149,
-        "data_region": "US",
-        "fail_count": 12
+        "fail_count": 1
       }
     },
     {
       "1047": {
-        "id": 1112442,
-        "date": 1552189367,
+        "id": 1103221,
+        "date": 1552186548,
         "question_id": 1047,
-        "submission_id": 213645665,
+        "submission_id": 213626435,
         "status": 10,
         "contest_id": 149,
         "data_region": "US",
-        "fail_count": 20
+        "fail_count": 2
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1047": {
+        "id": 1103241,
+        "date": 1552186553,
+        "question_id": 1047,
+        "submission_id": 213626476,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1104520,
+        "date": 1552186895,
+        "question_id": 1047,
+        "submission_id": 213629012,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1103402,
+        "date": 1552186596,
+        "question_id": 1047,
+        "submission_id": 213626780,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 48902,
+        "date": 1552186914,
+        "question_id": 1047,
+        "submission_id": 14304382,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49057,
+        "date": 1552187218,
+        "question_id": 1047,
+        "submission_id": 14304867,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1105752,
+        "date": 1552187222,
+        "question_id": 1047,
+        "submission_id": 213631499,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1105756,
+        "date": 1552187224,
+        "question_id": 1047,
+        "submission_id": 213631509,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1105767,
+        "date": 1552187227,
+        "question_id": 1047,
+        "submission_id": 213631530,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1105772,
+        "date": 1552187228,
+        "question_id": 1047,
+        "submission_id": 213631537,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1104688,
+        "date": 1552186938,
+        "question_id": 1047,
+        "submission_id": 213629337,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1104709,
+        "date": 1552186945,
+        "question_id": 1047,
+        "submission_id": 213629386,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 48943,
+        "date": 1552186979,
+        "question_id": 1047,
+        "submission_id": 14304500,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1105986,
+        "date": 1552187285,
+        "question_id": 1047,
+        "submission_id": 213631961,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1102643,
+        "date": 1552186385,
+        "question_id": 1047,
+        "submission_id": 213625332,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1103758,
+        "date": 1552186688,
+        "question_id": 1047,
+        "submission_id": 213627479,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1104856,
+        "date": 1552186989,
+        "question_id": 1047,
+        "submission_id": 213629692,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1103762,
+        "date": 1552186689,
+        "question_id": 1047,
+        "submission_id": 213627484,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1101608,
+        "date": 1552186089,
+        "question_id": 1047,
+        "submission_id": 213623217,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1104895,
+        "date": 1552186998,
+        "question_id": 1047,
+        "submission_id": 213629759,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1103988,
+        "date": 1552186746,
+        "question_id": 1047,
+        "submission_id": 213627908,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1105079,
+        "date": 1552187047,
+        "question_id": 1047,
+        "submission_id": 213630144,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1105109,
+        "date": 1552187056,
+        "question_id": 1047,
+        "submission_id": 213630201,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1106270,
+        "date": 1552187364,
+        "question_id": 1047,
+        "submission_id": 213632514,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
     {
       "1047": {
         "id": 1106289,
@@ -94190,31 +94432,306 @@
         "fail_count": 2
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1047": {
+        "id": 1106962,
+        "date": 1552187560,
+        "question_id": 1047,
+        "submission_id": 213633852,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1048": {
+        "id": 1105917,
+        "date": 1552187268,
+        "question_id": 1048,
+        "submission_id": 213631824,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1103698,
+        "date": 1552186674,
+        "question_id": 1047,
+        "submission_id": 213627373,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1107021,
+        "date": 1552187578,
+        "question_id": 1047,
+        "submission_id": 213633974,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 49090,
+        "date": 1552187279,
+        "question_id": 1047,
+        "submission_id": 14304957,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49242,
+        "date": 1552187581,
+        "question_id": 1047,
+        "submission_id": 14305439,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1107071,
+        "date": 1552187592,
+        "question_id": 1047,
+        "submission_id": 213634070,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1103791,
+        "date": 1552186695,
+        "question_id": 1047,
+        "submission_id": 213627532,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1103817,
+        "date": 1552186700,
+        "question_id": 1047,
+        "submission_id": 213627577,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1048": {
+        "id": 1106047,
+        "date": 1552187302,
+        "question_id": 1048,
+        "submission_id": 213632082,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1107150,
+        "date": 1552187615,
+        "question_id": 1047,
+        "submission_id": 213634229,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1107169,
+        "date": 1552187620,
+        "question_id": 1047,
+        "submission_id": 213634260,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 49274,
+        "date": 1552187640,
+        "question_id": 1047,
+        "submission_id": 14305527,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1105074,
+        "date": 1552187045,
+        "question_id": 1047,
+        "submission_id": 213630132,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1106271,
+        "date": 1552187365,
+        "question_id": 1047,
+        "submission_id": 213632515,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1107367,
+        "date": 1552187675,
+        "question_id": 1048,
+        "submission_id": 213634644,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1106345,
+        "date": 1552187387,
+        "question_id": 1047,
+        "submission_id": 213632664,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49156,
+        "date": 1552187410,
+        "question_id": 1047,
+        "submission_id": 14305186,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49157,
+        "date": 1552187410,
+        "question_id": 1047,
+        "submission_id": 14305187,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1107493,
+        "date": 1552187710,
+        "question_id": 1047,
+        "submission_id": 213634897,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 49018,
+        "date": 1552187145,
+        "question_id": 1047,
+        "submission_id": 14304751,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1105535,
+        "date": 1552187161,
+        "question_id": 1047,
+        "submission_id": 213631029,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1107706,
+        "date": 1552187770,
+        "question_id": 1047,
+        "submission_id": 213635329,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1048": {
+        "id": 1107741,
+        "date": 1552187783,
+        "question_id": 1048,
+        "submission_id": 213635411,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1106696,
+        "date": 1552187486,
+        "question_id": 1047,
+        "submission_id": 213633329,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
     {
       "1047": {
         "id": 1106716,
@@ -94515,31 +95032,306 @@
         "fail_count": 2
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1047": {
+        "id": 1104378,
+        "date": 1552186853,
+        "question_id": 1047,
+        "submission_id": 213628699,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1106592,
+        "date": 1552187457,
+        "question_id": 1047,
+        "submission_id": 213633144,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1048": {
+        "id": 49372,
+        "date": 1552187772,
+        "question_id": 1048,
+        "submission_id": 14305763,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1108769,
+        "date": 1552188080,
+        "question_id": 1048,
+        "submission_id": 213637498,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1108770,
+        "date": 1552188081,
+        "question_id": 1047,
+        "submission_id": 213637501,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1106688,
+        "date": 1552187484,
+        "question_id": 1047,
+        "submission_id": 213633321,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1105648,
+        "date": 1552187190,
+        "question_id": 1047,
+        "submission_id": 213631258,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1106734,
+        "date": 1552187494,
+        "question_id": 1047,
+        "submission_id": 213633405,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1108824,
+        "date": 1552188098,
+        "question_id": 1047,
+        "submission_id": 213637622,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1107828,
+        "date": 1552187808,
+        "question_id": 1047,
+        "submission_id": 213635603,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1108880,
+        "date": 1552188115,
+        "question_id": 1047,
+        "submission_id": 213637735,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1108913,
+        "date": 1552188124,
+        "question_id": 1047,
+        "submission_id": 213637809,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1108938,
+        "date": 1552188135,
+        "question_id": 1047,
+        "submission_id": 213637868,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1107996,
+        "date": 1552187855,
+        "question_id": 1047,
+        "submission_id": 213635933,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49425,
+        "date": 1552187875,
+        "question_id": 1047,
+        "submission_id": 14305919,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1104816,
+        "date": 1552186978,
+        "question_id": 1047,
+        "submission_id": 213629614,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1108077,
+        "date": 1552187882,
+        "question_id": 1047,
+        "submission_id": 213636105,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49576,
+        "date": 1552188185,
+        "question_id": 1047,
+        "submission_id": 14306523,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1108128,
+        "date": 1552187895,
+        "question_id": 1047,
+        "submission_id": 213636201,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1108144,
+        "date": 1552187900,
+        "question_id": 1047,
+        "submission_id": 213636234,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1109134,
+        "date": 1552188202,
+        "question_id": 1047,
+        "submission_id": 213638266,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1107118,
+        "date": 1552187605,
+        "question_id": 1047,
+        "submission_id": 213634165,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1108178,
+        "date": 1552187907,
+        "question_id": 1047,
+        "submission_id": 213636286,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1104952,
+        "date": 1552187014,
+        "question_id": 1047,
+        "submission_id": 213629881,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1109256,
+        "date": 1552188235,
+        "question_id": 1047,
+        "submission_id": 213638507,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
     {
       "1047": {
         "id": 1105127,
@@ -94840,31 +95632,306 @@
         "fail_count": 4
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1047": {
+        "id": 1106976,
+        "date": 1552187564,
+        "question_id": 1047,
+        "submission_id": 213633882,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1109090,
+        "date": 1552188186,
+        "question_id": 1047,
+        "submission_id": 213638176,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1108190,
+        "date": 1552187911,
+        "question_id": 1047,
+        "submission_id": 213636309,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 49733,
+        "date": 1552188512,
+        "question_id": 1047,
+        "submission_id": 14307131,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1048": {
+        "id": 49736,
+        "date": 1552188517,
+        "question_id": 1048,
+        "submission_id": 14307141,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1108216,
+        "date": 1552187919,
+        "question_id": 1047,
+        "submission_id": 213636369,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1107217,
+        "date": 1552187634,
+        "question_id": 1047,
+        "submission_id": 213634363,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1109260,
+        "date": 1552188238,
+        "question_id": 1047,
+        "submission_id": 213638517,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1109271,
+        "date": 1552188242,
+        "question_id": 1047,
+        "submission_id": 213638547,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49279,
+        "date": 1552187646,
+        "question_id": 1047,
+        "submission_id": 14305539,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1107294,
+        "date": 1552187656,
+        "question_id": 1047,
+        "submission_id": 213634511,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 49295,
+        "date": 1552187675,
+        "question_id": 1047,
+        "submission_id": 14305582,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1109388,
+        "date": 1552188279,
+        "question_id": 1047,
+        "submission_id": 213638797,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49482,
+        "date": 1552187987,
+        "question_id": 1047,
+        "submission_id": 14306131,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 49637,
+        "date": 1552188295,
+        "question_id": 1047,
+        "submission_id": 14306742,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1109443,
+        "date": 1552188298,
+        "question_id": 1047,
+        "submission_id": 213638918,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1109453,
+        "date": 1552188300,
+        "question_id": 1047,
+        "submission_id": 213638934,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49644,
+        "date": 1552188305,
+        "question_id": 1047,
+        "submission_id": 14306764,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1108572,
+        "date": 1552188025,
+        "question_id": 1047,
+        "submission_id": 213637136,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 49169,
+        "date": 1552187426,
+        "question_id": 1047,
+        "submission_id": 14305211,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1106494,
+        "date": 1552187429,
+        "question_id": 1047,
+        "submission_id": 213632947,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1107571,
+        "date": 1552187730,
+        "question_id": 1047,
+        "submission_id": 213635046,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1110402,
+        "date": 1552188638,
+        "question_id": 1047,
+        "submission_id": 213641044,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1109559,
+        "date": 1552188340,
+        "question_id": 1047,
+        "submission_id": 213639161,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1109566,
+        "date": 1552188341,
+        "question_id": 1047,
+        "submission_id": 213639174,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
     {
       "1047": {
         "id": 1108653,
@@ -95165,31 +96232,306 @@
         "fail_count": 6
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1047": {
+        "id": 1109261,
+        "date": 1552188238,
+        "question_id": 1047,
+        "submission_id": 213638518,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1110141,
+        "date": 1552188553,
+        "question_id": 1047,
+        "submission_id": 213640505,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1108378,
+        "date": 1552187965,
+        "question_id": 1047,
+        "submission_id": 213636683,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1111049,
+        "date": 1552188874,
+        "question_id": 1047,
+        "submission_id": 213642540,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1109371,
+        "date": 1552188275,
+        "question_id": 1047,
+        "submission_id": 213638764,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 49480,
+        "date": 1552187984,
+        "question_id": 1047,
+        "submission_id": 14306125,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1110284,
+        "date": 1552188598,
+        "question_id": 1047,
+        "submission_id": 213640787,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1107482,
+        "date": 1552187708,
+        "question_id": 1047,
+        "submission_id": 213634878,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 49499,
+        "date": 1552188022,
+        "question_id": 1047,
+        "submission_id": 14306192,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1107551,
+        "date": 1552187724,
+        "question_id": 1047,
+        "submission_id": 213634998,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1110368,
+        "date": 1552188629,
+        "question_id": 1047,
+        "submission_id": 213640980,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1110398,
+        "date": 1552188637,
+        "question_id": 1047,
+        "submission_id": 213641036,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1108654,
+        "date": 1552188049,
+        "question_id": 1047,
+        "submission_id": 213637289,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1048": {
+        "id": 1111303,
+        "date": 1552188960,
+        "question_id": 1048,
+        "submission_id": 213643094,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1111325,
+        "date": 1552188965,
+        "question_id": 1047,
+        "submission_id": 213643130,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1048": {
+        "id": 1111350,
+        "date": 1552188973,
+        "question_id": 1048,
+        "submission_id": 213643174,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1111361,
+        "date": 1552188979,
+        "question_id": 1047,
+        "submission_id": 213643207,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1110543,
+        "date": 1552188688,
+        "question_id": 1047,
+        "submission_id": 213641371,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 49965,
+        "date": 1552188989,
+        "question_id": 1047,
+        "submission_id": 14307900,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1111387,
+        "date": 1552188990,
+        "question_id": 1047,
+        "submission_id": 213643273,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1111390,
+        "date": 1552188991,
+        "question_id": 1047,
+        "submission_id": 213643279,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1048": {
+        "id": 1107853,
+        "date": 1552187814,
+        "question_id": 1048,
+        "submission_id": 213635653,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1048": {
+        "id": 49703,
+        "date": 1552188442,
+        "question_id": 1048,
+        "submission_id": 14307001,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1111541,
+        "date": 1552189044,
+        "question_id": 1047,
+        "submission_id": 213643616,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1109023,
+        "date": 1552188162,
+        "question_id": 1047,
+        "submission_id": 213638036,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
     {
       "1047": {
         "id": 1111611,
@@ -95490,31 +96832,306 @@
         "fail_count": 2
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1047": {
+        "id": 1111567,
+        "date": 1552189054,
+        "question_id": 1047,
+        "submission_id": 213643667,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1110728,
+        "date": 1552188757,
+        "question_id": 1048,
+        "submission_id": 213641797,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1112410,
+        "date": 1552189358,
+        "question_id": 1047,
+        "submission_id": 213645602,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1048": {
+        "id": 1112441,
+        "date": 1552189366,
+        "question_id": 1048,
+        "submission_id": 213645660,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1109952,
+        "date": 1552188484,
+        "question_id": 1047,
+        "submission_id": 213640055,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1048": {
+        "id": 1110824,
+        "date": 1552188789,
+        "question_id": 1048,
+        "submission_id": 213642003,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1109143,
+        "date": 1552188203,
+        "question_id": 1047,
+        "submission_id": 213638278,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 49580,
+        "date": 1552188207,
+        "question_id": 1047,
+        "submission_id": 14306556,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1110878,
+        "date": 1552188808,
+        "question_id": 1047,
+        "submission_id": 213642125,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1109162,
+        "date": 1552188209,
+        "question_id": 1047,
+        "submission_id": 213638319,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 49595,
+        "date": 1552188225,
+        "question_id": 1047,
+        "submission_id": 14306602,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1112609,
+        "date": 1552189429,
+        "question_id": 1047,
+        "submission_id": 213646062,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1111891,
+        "date": 1552189163,
+        "question_id": 1047,
+        "submission_id": 213644380,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1111951,
+        "date": 1552189183,
+        "question_id": 1048,
+        "submission_id": 213644528,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1109413,
+        "date": 1552188288,
+        "question_id": 1047,
+        "submission_id": 213638861,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 50178,
+        "date": 1552189532,
+        "question_id": 1047,
+        "submission_id": 14308622,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 49805,
+        "date": 1552188642,
+        "question_id": 1047,
+        "submission_id": 14307383,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1112113,
+        "date": 1552189245,
+        "question_id": 1047,
+        "submission_id": 213644907,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1110535,
+        "date": 1552188685,
+        "question_id": 1047,
+        "submission_id": 213641355,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1048": {
+        "id": 50078,
+        "date": 1552189289,
+        "question_id": 1048,
+        "submission_id": 14308287,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1112233,
+        "date": 1552189291,
+        "question_id": 1047,
+        "submission_id": 213645180,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1110550,
+        "date": 1552188691,
+        "question_id": 1047,
+        "submission_id": 213641391,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 50079,
+        "date": 1552189293,
+        "question_id": 1047,
+        "submission_id": 14308289,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1111455,
+        "date": 1552189015,
+        "question_id": 1047,
+        "submission_id": 213643433,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 50206,
+        "date": 1552189625,
+        "question_id": 1047,
+        "submission_id": 14308730,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 0
+      }
+    },
     {
       "1047": {
         "id": 1112333,
@@ -95815,31 +97432,306 @@
         "fail_count": 0
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1047": {
+        "id": 1110602,
+        "date": 1552188710,
+        "question_id": 1047,
+        "submission_id": 213641504,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1113099,
+        "date": 1552189623,
+        "question_id": 1047,
+        "submission_id": 213647222,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1106833,
+        "date": 1552187524,
+        "question_id": 1047,
+        "submission_id": 213633600,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 8
+      }
+    },
+    {
+      "1047": {
+        "id": 1113143,
+        "date": 1552189642,
+        "question_id": 1047,
+        "submission_id": 213647322,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1113176,
+        "date": 1552189654,
+        "question_id": 1047,
+        "submission_id": 213647403,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1113875,
+        "date": 1552189955,
+        "question_id": 1048,
+        "submission_id": 213649142,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1110725,
+        "date": 1552188757,
+        "question_id": 1047,
+        "submission_id": 213641790,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1048": {
+        "id": 1113193,
+        "date": 1552189660,
+        "question_id": 1048,
+        "submission_id": 213647435,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1113897,
+        "date": 1552189962,
+        "question_id": 1047,
+        "submission_id": 213649186,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1113197,
+        "date": 1552189662,
+        "question_id": 1047,
+        "submission_id": 213647450,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1106975,
+        "date": 1552187564,
+        "question_id": 1047,
+        "submission_id": 213633877,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 8
+      }
+    },
+    {
+      "1047": {
+        "id": 50232,
+        "date": 1552189677,
+        "question_id": 1047,
+        "submission_id": 14308818,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 1
+      }
+    },
+    {
+      "1047": {
+        "id": 1111694,
+        "date": 1552189092,
+        "question_id": 1047,
+        "submission_id": 213643925,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1110061,
+        "date": 1552188520,
+        "question_id": 1047,
+        "submission_id": 213640283,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 5
+      }
+    },
+    {
+      "1047": {
+        "id": 1113361,
+        "date": 1552189737,
+        "question_id": 1047,
+        "submission_id": 213647890,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1114105,
+        "date": 1552190044,
+        "question_id": 1048,
+        "submission_id": 213649698,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1112697,
+        "date": 1552189463,
+        "question_id": 1047,
+        "submission_id": 213646274,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1114151,
+        "date": 1552190068,
+        "question_id": 1047,
+        "submission_id": 213649825,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1113437,
+        "date": 1552189770,
+        "question_id": 1047,
+        "submission_id": 213648075,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1112737,
+        "date": 1552189479,
+        "question_id": 1048,
+        "submission_id": 213646359,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1114206,
+        "date": 1552190097,
+        "question_id": 1047,
+        "submission_id": 213650002,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1114223,
+        "date": 1552190105,
+        "question_id": 1047,
+        "submission_id": 213650042,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1047": {
+        "id": 1112827,
+        "date": 1552189514,
+        "question_id": 1047,
+        "submission_id": 213646567,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1114286,
+        "date": 1552190131,
+        "question_id": 1047,
+        "submission_id": 213650197,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
+    {
+      "1048": {
+        "id": 1114291,
+        "date": 1552190133,
+        "question_id": 1048,
+        "submission_id": 213650210,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 0
+      }
+    },
     {
       "1048": {
         "id": 1114313,
@@ -96140,31 +98032,306 @@
         "fail_count": 1
       }
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
+    {
+      "1048": {
+        "id": 1113709,
+        "date": 1552189881,
+        "question_id": 1048,
+        "submission_id": 213648750,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 50077,
+        "date": 1552189289,
+        "question_id": 1047,
+        "submission_id": 14308286,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 4
+      }
+    },
+    {
+      "1048": {
+        "id": 1113764,
+        "date": 1552189900,
+        "question_id": 1048,
+        "submission_id": 213648862,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1112272,
+        "date": 1552189302,
+        "question_id": 1047,
+        "submission_id": 213645264,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1114556,
+        "date": 1552190237,
+        "question_id": 1047,
+        "submission_id": 213650844,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 1
+      }
+    },
+    {
+      "1048": {
+        "id": 1111595,
+        "date": 1552189061,
+        "question_id": 1048,
+        "submission_id": 213643718,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 5
+      }
+    },
+    {
+      "1047": {
+        "id": 1113910,
+        "date": 1552189966,
+        "question_id": 1047,
+        "submission_id": 213649211,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1114057,
+        "date": 1552190027,
+        "question_id": 1047,
+        "submission_id": 213649585,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1110270,
+        "date": 1552188593,
+        "question_id": 1047,
+        "submission_id": 213640753,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 7
+      }
+    },
+    {
+      "1048": {
+        "id": 1112806,
+        "date": 1552189505,
+        "question_id": 1048,
+        "submission_id": 213646514,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1112965,
+        "date": 1552189566,
+        "question_id": 1047,
+        "submission_id": 213646889,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1048": {
+        "id": 1114473,
+        "date": 1552190206,
+        "question_id": 1048,
+        "submission_id": 213650643,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1113955,
+        "date": 1552189986,
+        "question_id": 1047,
+        "submission_id": 213649331,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1113985,
+        "date": 1552189997,
+        "question_id": 1047,
+        "submission_id": 213649407,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1048": {
+        "id": 1114777,
+        "date": 1552190320,
+        "question_id": 1048,
+        "submission_id": 213651379,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1114075,
+        "date": 1552190033,
+        "question_id": 1047,
+        "submission_id": 213649630,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 3
+      }
+    },
+    {
+      "1047": {
+        "id": 1113360,
+        "date": 1552189736,
+        "question_id": 1047,
+        "submission_id": 213647888,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1048": {
+        "id": 1111840,
+        "date": 1552189146,
+        "question_id": 1048,
+        "submission_id": 213644276,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 6
+      }
+    },
+    {
+      "1048": {
+        "id": 1114938,
+        "date": 1552190371,
+        "question_id": 1048,
+        "submission_id": 213651717,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1048": {
+        "id": 1114940,
+        "date": 1552190372,
+        "question_id": 1048,
+        "submission_id": 213651720,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1048": {
+        "id": 1114985,
+        "date": 1552190382,
+        "question_id": 1048,
+        "submission_id": 213651799,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 2
+      }
+    },
+    {
+      "1047": {
+        "id": 1111244,
+        "date": 1552188936,
+        "question_id": 1047,
+        "submission_id": 213642957,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 7
+      }
+    },
+    {
+      "1047": {
+        "id": 1113702,
+        "date": 1552189879,
+        "question_id": 1047,
+        "submission_id": 213648732,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 4
+      }
+    },
+    {
+      "1048": {
+        "id": 50341,
+        "date": 1552189952,
+        "question_id": 1048,
+        "submission_id": 14309190,
+        "status": 10,
+        "contest_id": 52,
+        "data_region": "CN",
+        "fail_count": 4
+      }
+    },
+    {
+      "1047": {
+        "id": 1109084,
+        "date": 1552188184,
+        "question_id": 1047,
+        "submission_id": 213638161,
+        "status": 10,
+        "contest_id": 149,
+        "data_region": "US",
+        "fail_count": 10
+      }
+    },
     {
       "1047": {
         "id": 1114034,
@@ -96465,6 +98632,14 @@
         "fail_count": 20
       }
     },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
     {},
     {},
     {},
@@ -124652,8 +126827,8 @@
       "contest_id": 149,
       "username": "Kenshinsyrup",
       "user_slug": "kenshinsyrup",
-      "country_code": "",
-      "country_name": null,
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 2224,
       "score": 8,
       "finish_time": 1552188283,
@@ -127076,8 +129251,8 @@
       "contest_id": 149,
       "username": "Meritocrator",
       "user_slug": "meritocrator",
-      "country_code": "",
-      "country_name": null,
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 2426,
       "score": 8,
       "finish_time": 1552189941,
@@ -131574,301 +133749,301 @@
     },
     {
       "contest_id": 149,
-      "username": "zvonryan",
-      "user_slug": "zvonryan",
-      "country_code": "",
-      "country_name": null,
-      "rank": 2800,
-      "score": 4,
-      "finish_time": 1552190286,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "mayd4zbvthu",
-      "user_slug": "mayd4zbvthu",
-      "country_code": "IN",
-      "country_name": "India",
-      "rank": 2801,
-      "score": 4,
-      "finish_time": 1552190291,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "hieutran",
-      "user_slug": "hieutran",
+      "username": "jieting-xu",
+      "user_slug": "jieting-xu",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 2802,
+      "rank": 2801,
       "score": 4,
-      "finish_time": 1552190318,
+      "finish_time": 1552186692,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "gaurabdasg",
-      "user_slug": "gaurabdasg",
-      "country_code": "IN",
-      "country_name": "India",
-      "rank": 2803,
-      "score": 4,
-      "finish_time": 1552190368,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "rss106",
-      "user_slug": "rss106",
+      "username": "TomAc",
+      "user_slug": "tomac",
       "country_code": "",
       "country_name": null,
-      "rank": 2804,
+      "rank": 2802,
       "score": 4,
-      "finish_time": 1552190416,
+      "finish_time": 1552186695,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "vighneshvnkt",
-      "user_slug": "vighneshvnkt",
+      "username": "samshahriary",
+      "user_slug": "samshahriary",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2803,
+      "score": 4,
+      "finish_time": 1552186716,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "machiave",
+      "user_slug": "machiave",
+      "country_code": "CA",
+      "country_name": "Canada",
+      "rank": 2804,
+      "score": 4,
+      "finish_time": 1552186721,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "Jdwestbrook86",
+      "user_slug": "jdwestbrook86",
       "country_code": "US",
       "country_name": "United States",
       "rank": 2805,
       "score": 4,
-      "finish_time": 1552190427,
+      "finish_time": 1552186733,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "ktls",
-      "user_slug": "ktls",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 2806,
-      "score": 4,
-      "finish_time": 1552190433,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "wanderwandering",
-      "user_slug": "wanderwandering",
+      "username": "PPH",
+      "user_slug": "pph",
       "country_code": "",
       "country_name": null,
-      "rank": 2807,
+      "rank": 2806,
       "score": 4,
-      "finish_time": 1552190449,
+      "finish_time": 1552186743,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "swayam_007",
-      "user_slug": "swayam_007",
+      "username": "dklearner",
+      "user_slug": "dklearner",
+      "country_code": "IN",
+      "country_name": "India",
+      "rank": 2807,
+      "score": 4,
+      "finish_time": 1552186748,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "MahsaAbadian",
+      "user_slug": "mahsaabadian",
       "country_code": "",
       "country_name": null,
       "rank": 2808,
       "score": 4,
-      "finish_time": 1552190477,
+      "finish_time": 1552186760,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "indish",
-      "user_slug": "indish",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "here0007",
+      "user_slug": "here0007",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 2809,
       "score": 4,
-      "finish_time": 1552190481,
+      "finish_time": 1552186762,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "armanbd8",
-      "user_slug": "armanbd8",
+      "username": "caojun07",
+      "user_slug": "caojun07",
       "country_code": "",
       "country_name": null,
       "rank": 2810,
       "score": 4,
-      "finish_time": 1552190500,
+      "finish_time": 1552186777,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "Shawn0707",
-      "user_slug": "shawn0707",
-      "country_code": "US",
-      "country_name": "United States",
+      "contest_id": 52,
+      "username": "ironman",
+      "user_slug": "ironman",
+      "country_code": "",
+      "country_name": null,
       "rank": 2811,
       "score": 4,
-      "finish_time": 1552190502,
+      "finish_time": 1552186801,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "qtds35k",
-      "user_slug": "qtds35k",
+      "username": "hwu84",
+      "user_slug": "hwu84",
       "country_code": "",
       "country_name": null,
       "rank": 2812,
       "score": 4,
-      "finish_time": 1552190537,
+      "finish_time": 1552186805,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "junbin731",
-      "user_slug": "junbin731",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "chasedream",
+      "user_slug": "chasedream",
+      "country_code": "",
+      "country_name": null,
       "rank": 2813,
       "score": 4,
-      "finish_time": 1552190561,
+      "finish_time": 1552186813,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "hangzhu",
-      "user_slug": "hangzhu",
+      "username": "lilpresident",
+      "user_slug": "lilpresident",
       "country_code": "",
       "country_name": null,
       "rank": 2814,
       "score": 4,
-      "finish_time": 1552190566,
+      "finish_time": 1552186820,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Carolusian",
-      "user_slug": "carolusian",
-      "country_code": "",
-      "country_name": null,
+      "username": "unwrittenwater4",
+      "user_slug": "unwrittenwater4",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 2815,
       "score": 4,
-      "finish_time": 1552190627,
+      "finish_time": 1552186828,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "huange",
-      "user_slug": "huange",
-      "country_code": "",
-      "country_name": null,
+      "username": "heidixia",
+      "user_slug": "heidixia",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 2816,
       "score": 4,
-      "finish_time": 1552190693,
+      "finish_time": 1552186828,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "miyaviYa",
-      "user_slug": "miyaviya",
-      "country_code": "",
-      "country_name": null,
+      "username": "anisha_vaghela",
+      "user_slug": "anisha_vaghela",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 2817,
       "score": 4,
-      "finish_time": 1552190705,
+      "finish_time": 1552186829,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "shivacharan",
-      "user_slug": "shivacharan",
+      "contest_id": 52,
+      "username": "backpacker",
+      "user_slug": "backpacker",
       "country_code": "",
       "country_name": null,
       "rank": 2818,
       "score": 4,
-      "finish_time": 1552190766,
+      "finish_time": 1552186830,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "ZSShen",
-      "user_slug": "zsshen",
-      "country_code": "TW",
-      "country_name": "Taiwan",
+      "username": "deepyachowdary",
+      "user_slug": "deepyachowdary",
+      "country_code": "",
+      "country_name": null,
       "rank": 2819,
       "score": 4,
-      "finish_time": 1552190806,
+      "finish_time": 1552186843,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "ken90242",
-      "user_slug": "ken90242",
-      "country_code": "TW",
-      "country_name": "Taiwan",
+      "username": "Sujil02",
+      "user_slug": "sujil02",
+      "country_code": "",
+      "country_name": null,
       "rank": 2820,
       "score": 4,
-      "finish_time": 1552190886,
+      "finish_time": 1552186846,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "zxd117721",
-      "user_slug": "zxd117721",
-      "country_code": "",
-      "country_name": null,
+      "username": "wangbiaoyu",
+      "user_slug": "wangbiaoyu",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 2821,
       "score": 4,
-      "finish_time": 1552190897,
+      "finish_time": 1552186848,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "NehaTirumalasetti",
-      "user_slug": "nehatirumalasetti",
-      "country_code": "",
-      "country_name": null,
+      "username": "pabeni1205",
+      "user_slug": "pabeni1205",
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "rank": 2822,
       "score": 4,
-      "finish_time": 1552190920,
+      "finish_time": 1552186903,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "xiaowenwu3",
-      "user_slug": "xiaowenwu3",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 2823,
-      "score": 4,
-      "finish_time": 1552190933,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "deepa2",
-      "user_slug": "deepa2",
+      "username": "wants2code",
+      "user_slug": "wants2code",
       "country_code": "",
       "country_name": null,
+      "rank": 2823,
+      "score": 4,
+      "finish_time": 1552186933,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "karangoel16",
+      "user_slug": "karangoel16",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 2824,
       "score": 4,
-      "finish_time": 1552190936,
+      "finish_time": 1552186948,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "aalmamun",
+      "user_slug": "aalmamun",
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "rank": 2825,
+      "score": 4,
+      "finish_time": 1552186953,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -132174,301 +134349,301 @@
     },
     {
       "contest_id": 149,
-      "username": "henghaaya",
-      "user_slug": "henghaaya",
+      "username": "jessica_x_1028",
+      "user_slug": "jessica_x_1028",
       "country_code": "",
       "country_name": null,
-      "rank": 2850,
-      "score": 4,
-      "finish_time": 1552193824,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "CoderNYC",
-      "user_slug": "codernyc",
-      "country_code": "US",
-      "country_name": "United States",
       "rank": 2851,
       "score": 4,
-      "finish_time": 1552193883,
+      "finish_time": 1552187146,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "soiam2014",
-      "user_slug": "soiam2014",
+      "username": "hylxidian",
+      "user_slug": "hylxidian",
       "country_code": "",
       "country_name": null,
       "rank": 2852,
       "score": 4,
-      "finish_time": 1552195367,
+      "finish_time": 1552187148,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "zgcmx2011",
-      "user_slug": "zgcmx2011",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "jayprakashsah21",
+      "user_slug": "jayprakashsah21",
+      "country_code": "IN",
+      "country_name": "India",
       "rank": 2853,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187153,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "kratos4ever",
-      "user_slug": "kratos4ever",
-      "country_code": "",
-      "country_name": null,
+      "username": "sheboke93",
+      "user_slug": "sheboke93",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 2854,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187195,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "jordandong",
-      "user_slug": "jordandong",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 2855,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "0xfeng",
-      "user_slug": "0xfeng",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 2856,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "ibmtp380",
-      "user_slug": "ibmtp380",
-      "country_code": "AL",
-      "country_name": "Albania",
-      "rank": 2857,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "123456",
-      "user_slug": "123456",
-      "country_code": "",
-      "country_name": null,
-      "rank": 2858,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "xm1223",
-      "user_slug": "xm1223",
+      "username": "PaulZero",
+      "user_slug": "paulzero",
       "country_code": "CN",
       "country_name": "China",
-      "rank": 2859,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 2855,
+      "score": 4,
+      "finish_time": 1552187196,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
+      "contest_id": 52,
+      "username": "ico",
+      "user_slug": "ico",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2856,
+      "score": 4,
+      "finish_time": 1552187214,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "gotsomecool",
+      "user_slug": "gotsomecool",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2857,
+      "score": 4,
+      "finish_time": 1552187218,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
       "contest_id": 149,
-      "username": "bahamut",
-      "user_slug": "bahamut",
+      "username": "chok87",
+      "user_slug": "chok87",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 2860,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 2858,
+      "score": 4,
+      "finish_time": 1552187222,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Angie-yue",
-      "user_slug": "angie-yue",
+      "username": "gpolles",
+      "user_slug": "gpolles",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2859,
+      "score": 4,
+      "finish_time": 1552187224,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "kelingyun0706",
+      "user_slug": "kelingyun0706",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2860,
+      "score": 4,
+      "finish_time": 1552187227,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "wildcat516",
+      "user_slug": "wildcat516",
       "country_code": "US",
       "country_name": "United States",
       "rank": 2861,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187228,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "jplus",
-      "user_slug": "jplus",
+      "username": "peroon",
+      "user_slug": "peroon",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2862,
+      "score": 4,
+      "finish_time": 1552187238,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "sivalingan",
+      "user_slug": "sivalingan",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2863,
+      "score": 4,
+      "finish_time": 1552187245,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 52,
+      "username": "3257262928",
+      "user_slug": "3257262928",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2864,
+      "score": 4,
+      "finish_time": 1552187279,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "punyaswaroop12",
+      "user_slug": "punyaswaroop12",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 2862,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 2865,
+      "score": 4,
+      "finish_time": 1552187285,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "hack_u",
-      "user_slug": "hack_u",
-      "country_code": "IN",
-      "country_name": "India",
-      "rank": 2863,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "qiezifxj",
-      "user_slug": "qiezifxj",
+      "username": "CoderNeedsMoney",
+      "user_slug": "coderneedsmoney",
       "country_code": "CN",
       "country_name": "China",
-      "rank": 2864,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "ryanlr",
-      "user_slug": "ryanlr",
-      "country_code": "",
-      "country_name": null,
-      "rank": 2865,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "0906404008",
-      "user_slug": "0906404008",
-      "country_code": "",
-      "country_name": null,
       "rank": 2866,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187285,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "azheanda",
-      "user_slug": "azheanda",
+      "username": "Wuhongcai",
+      "user_slug": "wuhongcai",
+      "country_code": "CN",
+      "country_name": "China",
+      "rank": 2867,
+      "score": 4,
+      "finish_time": 1552187288,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "abhishekgupta76",
+      "user_slug": "abhishekgupta76",
       "country_code": "",
       "country_name": null,
-      "rank": 2867,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "leo2",
-      "user_slug": "leo2",
-      "country_code": "US",
-      "country_name": "United States",
       "rank": 2868,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187289,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "sc269",
-      "user_slug": "sc269",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "satishsahuec",
+      "user_slug": "satishsahuec",
+      "country_code": "",
+      "country_name": null,
       "rank": 2869,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187289,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "1064no1carry",
-      "user_slug": "1064no1carry",
+      "username": "Jyun-Neng",
+      "user_slug": "jyun-neng",
       "country_code": "",
       "country_name": null,
       "rank": 2870,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187289,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "liamchzh",
-      "user_slug": "liamchzh",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 2871,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "daemonwong9",
-      "user_slug": "daemonwong9",
+      "username": "RoyRen89",
+      "user_slug": "royren89",
       "country_code": "",
       "country_name": null,
+      "rank": 2871,
+      "score": 4,
+      "finish_time": 1552187298,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "cnaveen052",
+      "user_slug": "cnaveen052",
+      "country_code": "IN",
+      "country_name": "India",
       "rank": 2872,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187346,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "wlxiong",
-      "user_slug": "wlxiong",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "arun279",
+      "user_slug": "arun279",
+      "country_code": "",
+      "country_name": null,
       "rank": 2873,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187347,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "duup",
-      "user_slug": "duup",
+      "username": "prestonbui97",
+      "user_slug": "prestonbui97",
       "country_code": "",
       "country_name": null,
       "rank": 2874,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187356,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "duiyi",
+      "user_slug": "duiyi",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2875,
+      "score": 4,
+      "finish_time": 1552187364,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -132774,301 +134949,301 @@
     },
     {
       "contest_id": 149,
-      "username": "winterwheat",
-      "user_slug": "winterwheat",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 2900,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "kenvifire",
-      "user_slug": "kenvifire",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "ImBvjevWxRk00XL",
+      "user_slug": "imbvjevwxrk00xl",
+      "country_code": "",
+      "country_name": null,
       "rank": 2901,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187560,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "nazifa",
-      "user_slug": "nazifa",
-      "country_code": "BD",
-      "country_name": "Bangladesh",
+      "username": "kkweon",
+      "user_slug": "kkweon",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 2902,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187568,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "bakey",
-      "user_slug": "bakey",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "dumblejd",
+      "user_slug": "dumblejd",
+      "country_code": "",
+      "country_name": null,
       "rank": 2903,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187574,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "liuwujijay",
-      "user_slug": "liuwujijay",
+      "username": "sairajesh",
+      "user_slug": "sairajesh",
       "country_code": "",
       "country_name": null,
       "rank": 2904,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187578,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "taihejin",
-      "user_slug": "taihejin",
-      "country_code": "CN",
-      "country_name": "China",
+      "contest_id": 52,
+      "username": "hasaker",
+      "user_slug": "hasaker",
+      "country_code": "",
+      "country_name": null,
       "rank": 2905,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187579,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
-      "contest_id": 149,
-      "username": "adityanl",
-      "user_slug": "adityanl",
-      "country_code": "US",
-      "country_name": "United States",
+      "contest_id": 52,
+      "username": "13651711671",
+      "user_slug": "13651711671",
+      "country_code": "",
+      "country_name": null,
       "rank": 2906,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187581,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "vidda",
-      "user_slug": "vidda",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "Jerrysuu",
+      "user_slug": "jerrysuu",
+      "country_code": "",
+      "country_name": null,
       "rank": 2907,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187592,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "nikeasyanzi",
-      "user_slug": "nikeasyanzi",
-      "country_code": "TW",
-      "country_name": "Taiwan",
+      "username": "akshay8",
+      "user_slug": "akshay8",
+      "country_code": "",
+      "country_name": null,
       "rank": 2908,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187595,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "flynn12",
-      "user_slug": "flynn12",
+      "username": "buyi1128",
+      "user_slug": "buyi1128",
       "country_code": "",
       "country_name": null,
       "rank": 2909,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187600,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "su03121231",
-      "user_slug": "su03121231",
-      "country_code": "",
-      "country_name": null,
+      "username": "n-_-f-_-r",
+      "user_slug": "n-_-f-_-r",
+      "country_code": "AU",
+      "country_name": "Australia",
       "rank": 2910,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187602,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "qcloud",
-      "user_slug": "qcloud",
+      "username": "czyang",
+      "user_slug": "czyang",
+      "country_code": "US",
+      "country_name": "United States",
+      "rank": 2911,
+      "score": 4,
+      "finish_time": 1552187615,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "vikas_jain4494",
+      "user_slug": "vikas_jain4494",
       "country_code": "",
       "country_name": null,
-      "rank": 2911,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "zoetian",
-      "user_slug": "zoetian",
-      "country_code": "CA",
-      "country_name": "Canada",
       "rank": 2912,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187620,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "nixed",
-      "user_slug": "nixed",
+      "contest_id": 52,
+      "username": "bless_aa",
+      "user_slug": "bless_aa",
       "country_code": "",
       "country_name": null,
       "rank": 2913,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187640,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "Venkatkumar",
-      "user_slug": "venkatkumar",
-      "country_code": "IN",
-      "country_name": "India",
+      "username": "node",
+      "user_slug": "node",
+      "country_code": "",
+      "country_name": null,
       "rank": 2914,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187645,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "kw0916",
-      "user_slug": "kw0916",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "funnytao",
+      "user_slug": "funnytao",
+      "country_code": "",
+      "country_name": null,
       "rank": 2915,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187665,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "clonyl",
-      "user_slug": "clonyl",
+      "username": "danielzhaowise",
+      "user_slug": "danielzhaowise",
       "country_code": "",
       "country_name": null,
       "rank": 2916,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187675,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "yuhuang",
-      "user_slug": "yuhuang",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "civabhusal",
+      "user_slug": "civabhusal",
+      "country_code": "",
+      "country_name": null,
       "rank": 2917,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187687,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "tiantian2016",
-      "user_slug": "tiantian2016",
-      "country_code": "US",
-      "country_name": "United States",
+      "contest_id": 52,
+      "username": "dewitt",
+      "user_slug": "dewitt",
+      "country_code": "",
+      "country_name": null,
       "rank": 2918,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187710,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
-      "contest_id": 149,
-      "username": "amrtri3",
-      "user_slug": "amrtri3",
+      "contest_id": 52,
+      "username": "LiuYinCarl",
+      "user_slug": "liuyincarl",
       "country_code": "",
       "country_name": null,
       "rank": 2919,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187710,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "jhshi129765",
-      "user_slug": "jhshi129765",
-      "country_code": "",
-      "country_name": null,
-      "rank": 2920,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "dploop",
-      "user_slug": "dploop",
+      "username": "jeicy07",
+      "user_slug": "jeicy07",
       "country_code": "CN",
       "country_name": "China",
-      "rank": 2921,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 2920,
+      "score": 4,
+      "finish_time": 1552187710,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
+      "contest_id": 52,
+      "username": "mao-pi-shuai",
+      "user_slug": "mao-pi-shuai",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2921,
+      "score": 4,
+      "finish_time": 1552187745,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
       "contest_id": 149,
-      "username": "Scienceboy06",
-      "user_slug": "scienceboy06",
+      "username": "guilhebl",
+      "user_slug": "guilhebl",
       "country_code": "",
       "country_name": null,
       "rank": 2922,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187761,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "dolare",
-      "user_slug": "dolare",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 2923,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "MeifangChen",
-      "user_slug": "meifangchen",
+      "username": "ali95",
+      "user_slug": "ali95",
       "country_code": "",
       "country_name": null,
+      "rank": 2923,
+      "score": 4,
+      "finish_time": 1552187770,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "qingfeng0210",
+      "user_slug": "qingfeng0210",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 2924,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552187783,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "rnair3",
+      "user_slug": "rnair3",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2925,
+      "score": 4,
+      "finish_time": 1552187786,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -133374,301 +135549,301 @@
     },
     {
       "contest_id": 149,
-      "username": "SCorner",
-      "user_slug": "scorner",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 2950,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "ravipandiri",
-      "user_slug": "ravipandiri",
+      "username": "tayck",
+      "user_slug": "tayck",
       "country_code": "",
       "country_name": null,
       "rank": 2951,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188053,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "smarth",
-      "user_slug": "smarth",
+      "username": "nikkiching",
+      "user_slug": "nikkiching",
       "country_code": "",
       "country_name": null,
       "rank": 2952,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188057,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "adi3",
-      "user_slug": "adi3",
+      "contest_id": 52,
+      "username": "happyOrz",
+      "user_slug": "happyorz",
       "country_code": "",
       "country_name": null,
       "rank": 2953,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188072,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "akb47",
-      "user_slug": "akb47",
-      "country_code": "",
-      "country_name": null,
+      "username": "imangali_t",
+      "user_slug": "imangali_t",
+      "country_code": "KZ",
+      "country_name": "Kazakhstan",
       "rank": 2954,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188080,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "sonnyhcl",
-      "user_slug": "sonnyhcl",
+      "username": "lastGod",
+      "user_slug": "lastgod",
       "country_code": "CN",
       "country_name": "China",
       "rank": 2955,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188081,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "alagram",
-      "user_slug": "alagram",
-      "country_code": "GH",
-      "country_name": "Ghana",
+      "username": "nalmar",
+      "user_slug": "nalmar",
+      "country_code": "",
+      "country_name": null,
       "rank": 2956,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188084,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "hanting",
-      "user_slug": "hanting",
-      "country_code": "JP",
-      "country_name": "Japan",
+      "username": "wihoho",
+      "user_slug": "wihoho",
+      "country_code": "SG",
+      "country_name": "Singapore",
       "rank": 2957,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188090,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "gccon",
-      "user_slug": "gccon",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "chihwa",
+      "user_slug": "chihwa",
+      "country_code": "",
+      "country_name": null,
       "rank": 2958,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188094,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "CrystalYY",
-      "user_slug": "crystalyy",
+      "username": "SunTX",
+      "user_slug": "suntx",
       "country_code": "",
       "country_name": null,
       "rank": 2959,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188098,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "ghormingron",
-      "user_slug": "ghormingron",
+      "username": "justme",
+      "user_slug": "justme",
       "country_code": "",
       "country_name": null,
       "rank": 2960,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188108,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "duanchen",
-      "user_slug": "duanchen",
+      "username": "demoon",
+      "user_slug": "demoon",
       "country_code": "",
       "country_name": null,
       "rank": 2961,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188115,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "liuy44",
-      "user_slug": "liuy44",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "chenhengqi",
+      "user_slug": "chenhengqi",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 2962,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188124,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Joshua_Huffman",
-      "user_slug": "joshua_huffman",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "spacewanderer",
+      "user_slug": "spacewanderer",
+      "country_code": "",
+      "country_name": null,
       "rank": 2963,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188135,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "mathagician",
-      "user_slug": "mathagician",
-      "country_code": "IN",
-      "country_name": "India",
-      "rank": 2964,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "fifiteen82726",
-      "user_slug": "fifiteen82726",
+      "username": "studentCB",
+      "user_slug": "studentcb",
       "country_code": "TW",
       "country_name": "Taiwan",
-      "rank": 2965,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 2964,
+      "score": 4,
+      "finish_time": 1552188155,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
+      "contest_id": 52,
+      "username": "Lunatde",
+      "user_slug": "lunatde",
+      "country_code": "",
+      "country_name": null,
+      "rank": 2965,
+      "score": 4,
+      "finish_time": 1552188175,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
       "contest_id": 149,
-      "username": "bobwang1990",
-      "user_slug": "bobwang1990",
+      "username": "rammendozaa",
+      "user_slug": "rammendozaa",
       "country_code": "",
       "country_name": null,
       "rank": 2966,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188178,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "wenjunweng",
-      "user_slug": "wenjunweng",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "jphan32",
+      "user_slug": "jphan32",
+      "country_code": "KR",
+      "country_name": "South Korea",
       "rank": 2967,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188182,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "mcjiang",
-      "user_slug": "mcjiang",
+      "contest_id": 52,
+      "username": "starer",
+      "user_slug": "starer",
       "country_code": "",
       "country_name": null,
       "rank": 2968,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188185,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "kinglau66",
-      "user_slug": "kinglau66",
+      "username": "NarenRao",
+      "user_slug": "narenrao",
       "country_code": "",
       "country_name": null,
       "rank": 2969,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188195,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "xxzero12",
-      "user_slug": "xxzero12",
-      "country_code": "TW",
-      "country_name": "Taiwan",
+      "username": "helen15",
+      "user_slug": "helen15",
+      "country_code": "",
+      "country_name": null,
       "rank": 2970,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188200,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "wjz27_leetcode",
-      "user_slug": "wjz27_leetcode",
+      "username": "sihgeru322",
+      "user_slug": "sihgeru322",
       "country_code": "",
       "country_name": null,
       "rank": 2971,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188202,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "sivagurunathan",
-      "user_slug": "sivagurunathan",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "gaur",
+      "user_slug": "gaur",
+      "country_code": "",
+      "country_name": null,
       "rank": 2972,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188205,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "vpv",
-      "user_slug": "vpv",
+      "username": "han-tse",
+      "user_slug": "han-tse",
       "country_code": "",
       "country_name": null,
       "rank": 2973,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188207,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "dingye1991",
-      "user_slug": "dingye1991",
-      "country_code": "",
-      "country_name": null,
+      "username": "srhsyk",
+      "user_slug": "srhsyk",
+      "country_code": "JP",
+      "country_name": "Japan",
       "rank": 2974,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188214,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "yangyang2014",
+      "user_slug": "yangyang2014",
+      "country_code": "CN",
+      "country_name": "China",
+      "rank": 2975,
+      "score": 4,
+      "finish_time": 1552188235,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -133974,301 +136149,301 @@
     },
     {
       "contest_id": 149,
-      "username": "EveT0T",
-      "user_slug": "evet0t",
-      "country_code": "",
-      "country_name": null,
-      "rank": 3000,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "yutongluo",
-      "user_slug": "yutongluo",
-      "country_code": "",
-      "country_name": null,
-      "rank": 3001,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "ady477",
-      "user_slug": "ady477",
+      "username": "miwusenlinleo",
+      "user_slug": "miwusenlinleo",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 3002,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3001,
+      "score": 4,
+      "finish_time": 1552188464,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "indidivya",
-      "user_slug": "indidivya",
+      "username": "nicole_cc",
+      "user_slug": "nicole_cc",
       "country_code": "",
       "country_name": null,
+      "rank": 3002,
+      "score": 4,
+      "finish_time": 1552188486,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "kay_deep",
+      "user_slug": "kay_deep",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3003,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188511,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "Jas111",
-      "user_slug": "jas111",
-      "country_code": "IN",
-      "country_name": "India",
+      "contest_id": 52,
+      "username": "bisonjuzi",
+      "user_slug": "bisonjuzi",
+      "country_code": "",
+      "country_name": null,
       "rank": 3004,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188512,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
-      "contest_id": 149,
-      "username": "lyt187",
-      "user_slug": "lyt187",
+      "contest_id": 52,
+      "username": "kamikolosu",
+      "user_slug": "kamikolosu",
       "country_code": "",
       "country_name": null,
       "rank": 3005,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188517,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "guruhegde",
-      "user_slug": "guruhegde",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "siddhantsaikapian",
+      "user_slug": "siddhantsaikapian",
+      "country_code": "",
+      "country_name": null,
       "rank": 3006,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188519,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "sitongee",
-      "user_slug": "sitongee",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "ujjwal24",
+      "user_slug": "ujjwal24",
+      "country_code": "IN",
+      "country_name": "India",
       "rank": 3007,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188534,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "chiapetx1001",
-      "user_slug": "chiapetx1001",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "oscar2d2",
+      "user_slug": "oscar2d2",
+      "country_code": "",
+      "country_name": null,
       "rank": 3008,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188538,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Anzal1234",
-      "user_slug": "anzal1234",
-      "country_code": "",
-      "country_name": null,
-      "rank": 3009,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "hp685",
-      "user_slug": "hp685",
+      "username": "nk46",
+      "user_slug": "nk46",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 3010,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3009,
+      "score": 4,
+      "finish_time": 1552188542,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "chimao",
-      "user_slug": "chimao",
+      "contest_id": 52,
+      "username": "terrygmx",
+      "user_slug": "terrygmx",
       "country_code": "",
       "country_name": null,
+      "rank": 3010,
+      "score": 4,
+      "finish_time": 1552188546,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "nick_qiaolin",
+      "user_slug": "nick_qiaolin",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3011,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188556,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "CodingJu",
-      "user_slug": "codingju",
-      "country_code": "CN",
-      "country_name": "China",
+      "contest_id": 52,
+      "username": "daem02",
+      "user_slug": "daem02",
+      "country_code": "",
+      "country_name": null,
       "rank": 3012,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188575,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "pats5",
-      "user_slug": "pats5",
+      "username": "srinath1993",
+      "user_slug": "srinath1993",
       "country_code": "",
       "country_name": null,
       "rank": 3013,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188579,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "AniChikage",
-      "user_slug": "anichikage",
+      "contest_id": 52,
+      "username": "likeshan",
+      "user_slug": "likeshan",
       "country_code": "",
       "country_name": null,
       "rank": 3014,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188587,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
-      "contest_id": 149,
-      "username": "matthewcroft",
-      "user_slug": "matthewcroft",
+      "contest_id": 52,
+      "username": "jodel",
+      "user_slug": "jodel",
       "country_code": "",
       "country_name": null,
       "rank": 3015,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188595,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "swetas",
-      "user_slug": "swetas",
-      "country_code": "",
-      "country_name": null,
+      "username": "rwestelaken",
+      "user_slug": "rwestelaken",
+      "country_code": "CA",
+      "country_name": "Canada",
       "rank": 3016,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188598,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "steviejay",
-      "user_slug": "steviejay",
+      "username": "Astux",
+      "user_slug": "astux",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3017,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188600,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "shanshanhe",
-      "user_slug": "shanshanhe",
+      "contest_id": 52,
+      "username": "natural_lawhwh",
+      "user_slug": "natural_lawhwh",
       "country_code": "",
       "country_name": null,
       "rank": 3018,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188605,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "admmist",
-      "user_slug": "admmist",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "wxli3388",
+      "user_slug": "wxli3388",
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "rank": 3019,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188625,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "joseph34",
-      "user_slug": "joseph34",
+      "contest_id": 52,
+      "username": "liao12138",
+      "user_slug": "liao12138",
       "country_code": "",
       "country_name": null,
       "rank": 3020,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188626,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "Gery_kiwi",
-      "user_slug": "gery_kiwi",
+      "username": "srander",
+      "user_slug": "srander",
       "country_code": "",
       "country_name": null,
       "rank": 3021,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188629,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "AlbertHolmes",
-      "user_slug": "albertholmes",
-      "country_code": "",
-      "country_name": "",
+      "username": "xuchenxiaom",
+      "user_slug": "xuchenxiaom",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3022,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188630,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "kexanie",
-      "user_slug": "kexanie",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 3023,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "cxnman",
-      "user_slug": "cxnman",
+      "username": "UGG",
+      "user_slug": "ugg",
       "country_code": "",
       "country_name": null,
+      "rank": 3023,
+      "score": 4,
+      "finish_time": 1552188638,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "powerof2",
+      "user_slug": "powerof2",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3024,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188640,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "chaitu236",
+      "user_slug": "chaitu236",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3025,
+      "score": 4,
+      "finish_time": 1552188641,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -134574,301 +136749,301 @@
     },
     {
       "contest_id": 149,
-      "username": "behrokh",
-      "user_slug": "behrokh",
-      "country_code": "",
-      "country_name": null,
-      "rank": 3050,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "teapisan",
-      "user_slug": "teapisan",
-      "country_code": "ID",
-      "country_name": "Indonesia",
+      "username": "MinchaoZhu",
+      "user_slug": "minchaozhu",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3051,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188838,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "frankliguanju",
-      "user_slug": "frankliguanju",
-      "country_code": "CH",
-      "country_name": "Switzerland",
+      "username": "TerenceFeng",
+      "user_slug": "terencefeng",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3052,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188853,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "gaurav-deshmukh-89",
-      "user_slug": "gaurav-deshmukh-89",
+      "username": "madhusudansaha",
+      "user_slug": "madhusudansaha",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3053,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188865,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "qianqian121",
-      "user_slug": "qianqian121",
+      "username": "AIdrifter",
+      "user_slug": "aidrifter",
       "country_code": "",
       "country_name": null,
       "rank": 3054,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188874,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "phamminh91",
-      "user_slug": "phamminh91",
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "rank": 3055,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "MelonTennis",
-      "user_slug": "melontennis",
+      "username": "cookiecookie",
+      "user_slug": "cookiecookie",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 3056,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3055,
+      "score": 4,
+      "finish_time": 1552188875,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
+      "contest_id": 52,
+      "username": "Pacras",
+      "user_slug": "pacras",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3056,
+      "score": 4,
+      "finish_time": 1552188884,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
       "contest_id": 149,
-      "username": "shiftbank",
-      "user_slug": "shiftbank",
+      "username": "yadiqian",
+      "user_slug": "yadiqian",
       "country_code": "",
       "country_name": null,
       "rank": 3057,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188898,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "dpark4657",
-      "user_slug": "dpark4657",
-      "country_code": "",
-      "country_name": null,
+      "username": "grkulkarni",
+      "user_slug": "grkulkarni",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3058,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188908,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "ShuaShua-Li",
-      "user_slug": "shuashua-li",
+      "contest_id": 52,
+      "username": "yanjiasen4",
+      "user_slug": "yanjiasen4",
       "country_code": "",
       "country_name": null,
       "rank": 3059,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188922,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "shreyas1599",
+      "user_slug": "shreyas1599",
+      "country_code": "IN",
+      "country_name": "India",
+      "rank": 3060,
+      "score": 4,
+      "finish_time": 1552188924,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "pipasese",
-      "user_slug": "pipasese",
+      "username": "vigneshvicky98",
+      "user_slug": "vigneshvicky98",
       "country_code": "",
       "country_name": null,
-      "rank": 3060,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3061,
+      "score": 4,
+      "finish_time": 1552188929,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "guannan2",
-      "user_slug": "guannan2",
+      "username": "michaellm",
+      "user_slug": "michaellm",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 3061,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "dzheng9000",
-      "user_slug": "dzheng9000",
-      "country_code": "",
-      "country_name": null,
       "rank": 3062,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188937,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "archpar",
-      "user_slug": "archpar",
+      "username": "nphoang1102",
+      "user_slug": "nphoang1102",
       "country_code": "",
       "country_name": null,
       "rank": 3063,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188949,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "ntt2k",
-      "user_slug": "ntt2k",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "hkkoay",
+      "user_slug": "hkkoay",
+      "country_code": "SG",
+      "country_name": "Singapore",
       "rank": 3064,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188960,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "robert74",
-      "user_slug": "robert74",
+      "username": "shikharchaure",
+      "user_slug": "shikharchaure",
       "country_code": "",
       "country_name": null,
       "rank": 3065,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188965,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "xuxiaotian",
-      "user_slug": "xuxiaotian",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 3066,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "iamxcb",
-      "user_slug": "iamxcb",
+      "username": "heeheehaha45",
+      "user_slug": "heeheehaha45",
       "country_code": "",
       "country_name": null,
-      "rank": 3067,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3066,
+      "score": 4,
+      "finish_time": 1552188973,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "shuo29",
-      "user_slug": "shuo29",
+      "username": "wf94",
+      "user_slug": "wf94",
+      "country_code": "US",
+      "country_name": "United States",
+      "rank": 3067,
+      "score": 4,
+      "finish_time": 1552188979,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "quiz",
+      "user_slug": "quiz",
       "country_code": "",
       "country_name": null,
       "rank": 3068,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188988,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "sdliuyuzhi",
-      "user_slug": "sdliuyuzhi",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3069,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "roohiya2",
-      "user_slug": "roohiya2",
+      "contest_id": 52,
+      "username": "soul-4",
+      "user_slug": "soul-4",
       "country_code": "",
       "country_name": null,
+      "rank": 3069,
+      "score": 4,
+      "finish_time": 1552188989,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "liang2",
+      "user_slug": "liang2",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3070,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188990,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "mrseanpaul81",
-      "user_slug": "mrseanpaul81",
+      "username": "nat236919",
+      "user_slug": "nat236919",
       "country_code": "",
       "country_name": null,
       "rank": 3071,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552188991,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Yjnull",
-      "user_slug": "yjnull",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "rachel_ton",
+      "user_slug": "rachel_ton",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3072,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189014,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "jerryenergy98",
-      "user_slug": "jerryenergy98",
+      "contest_id": 52,
+      "username": "Lerchain",
+      "user_slug": "lerchain",
       "country_code": "",
       "country_name": null,
       "rank": 3073,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189042,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "dingjy94",
+      "user_slug": "dingjy94",
+      "country_code": "US",
+      "country_name": "United States",
+      "rank": 3074,
+      "score": 4,
+      "finish_time": 1552189044,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "wenting8",
-      "user_slug": "wenting8",
+      "username": "student42",
+      "user_slug": "student42",
       "country_code": "",
       "country_name": null,
-      "rank": 3074,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3075,
+      "score": 4,
+      "finish_time": 1552189062,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -135174,303 +137349,303 @@
     },
     {
       "contest_id": 149,
-      "username": "prkarve",
-      "user_slug": "prkarve",
-      "country_code": "IN",
-      "country_name": "India",
-      "rank": 3100,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "rajasekarm",
-      "user_slug": "rajasekarm",
-      "country_code": "IN",
-      "country_name": "India",
+      "username": "jaraaxaig",
+      "user_slug": "jaraaxaig",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3101,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189354,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "yuanhaowang",
-      "user_slug": "yuanhaowang",
+      "username": "shantanu27",
+      "user_slug": "shantanu27",
       "country_code": "",
       "country_name": null,
       "rank": 3102,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189357,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "crukedsh",
-      "user_slug": "crukedsh",
-      "country_code": "",
-      "country_name": null,
-      "rank": 3103,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "EddieCarrillo",
-      "user_slug": "eddiecarrillo",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3104,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "supersam331",
-      "user_slug": "supersam331",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 3105,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "khmadi",
-      "user_slug": "khmadi",
-      "country_code": "",
-      "country_name": null,
-      "rank": 3106,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "abhilashd",
-      "user_slug": "abhilashd",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3107,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "vaithak",
-      "user_slug": "vaithak",
+      "username": "sagarkacha",
+      "user_slug": "sagarkacha",
       "country_code": "IN",
       "country_name": "India",
-      "rank": 3108,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3103,
+      "score": 4,
+      "finish_time": 1552189358,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "theuly",
-      "user_slug": "theuly",
+      "username": "prateek_123",
+      "user_slug": "prateek_123",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3104,
+      "score": 4,
+      "finish_time": 1552189366,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "linkopen",
+      "user_slug": "linkopen",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3105,
+      "score": 4,
+      "finish_time": 1552189384,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "ashag",
+      "user_slug": "ashag",
+      "country_code": "US",
+      "country_name": "United States",
+      "rank": 3106,
+      "score": 4,
+      "finish_time": 1552189389,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "user6437H",
+      "user_slug": "user6437h",
+      "country_code": "IN",
+      "country_name": "India",
+      "rank": 3107,
+      "score": 4,
+      "finish_time": 1552189403,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 52,
+      "username": "qzhNxkBy7U",
+      "user_slug": "qzhNxkBy7U",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3108,
+      "score": 4,
+      "finish_time": 1552189407,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "surusanishivani",
+      "user_slug": "surusanishivani",
       "country_code": "",
       "country_name": null,
       "rank": 3109,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189408,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "lrbn86",
-      "user_slug": "lrbn86",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "innainu",
+      "user_slug": "innainu",
+      "country_code": "",
+      "country_name": null,
       "rank": 3110,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189409,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "oso",
-      "user_slug": "oso",
-      "country_code": "CA",
-      "country_name": "Canada",
+      "contest_id": 52,
+      "username": "3889155273",
+      "user_slug": "3889155273",
+      "country_code": "",
+      "country_name": null,
       "rank": 3111,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189425,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "nik0mon",
-      "user_slug": "nik0mon",
+      "username": "simon00195",
+      "user_slug": "simon00195",
       "country_code": "",
       "country_name": null,
       "rank": 3112,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189429,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Bobby_",
-      "user_slug": "bobby_",
+      "username": "greenteemo",
+      "user_slug": "greenteemo",
+      "country_code": "CN",
+      "country_name": "China",
+      "rank": 3113,
+      "score": 4,
+      "finish_time": 1552189463,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "annayu12",
+      "user_slug": "annayu12",
       "country_code": "",
       "country_name": null,
-      "rank": 3113,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "Szkyjxbjxm",
-      "user_slug": "szkyjxbjxm",
-      "country_code": "US",
-      "country_name": "United States",
       "rank": 3114,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189483,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "susanta_",
-      "user_slug": "susanta_",
+      "username": "cjhlucky",
+      "user_slug": "cjhlucky",
       "country_code": "",
       "country_name": null,
       "rank": 3115,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189488,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "chosenone75",
-      "user_slug": "chosenone75",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 3116,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "kotwal633",
-      "user_slug": "kotwal633",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3117,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "loseweigh",
-      "user_slug": "loseweigh",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3118,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "kaien",
-      "user_slug": "kaien",
-      "country_code": "KR",
-      "country_name": "South Korea",
-      "rank": 3119,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "hanscat",
-      "user_slug": "hanscat",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3120,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "k40711abc",
-      "user_slug": "k40711abc",
-      "country_code": "TW",
-      "country_name": "Taiwan",
-      "rank": 3121,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "ninkovic",
-      "user_slug": "ninkovic",
+      "contest_id": 52,
+      "username": "xiudongwang",
+      "user_slug": "xiudongwang",
       "country_code": "",
       "country_name": null,
-      "rank": 3122,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3116,
+      "score": 4,
+      "finish_time": 1552189532,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "ping",
+      "user_slug": "ping",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3117,
+      "score": 4,
+      "finish_time": 1552189542,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "ryanym",
+      "user_slug": "ryanym",
+      "country_code": "CA",
+      "country_name": "Canada",
+      "rank": 3118,
+      "score": 4,
+      "finish_time": 1552189545,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "lpaben62",
-      "user_slug": "lpaben62",
+      "username": "b_umika",
+      "user_slug": "b_umika",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3119,
+      "score": 4,
+      "finish_time": 1552189585,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 52,
+      "username": "sky_liberation",
+      "user_slug": "sky_liberation",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3120,
+      "score": 4,
+      "finish_time": 1552189589,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "jkrishna",
+      "user_slug": "jkrishna",
+      "country_code": "IN",
+      "country_name": "India",
+      "rank": 3121,
+      "score": 4,
+      "finish_time": 1552189591,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "18701788091",
+      "user_slug": "18701788091",
+      "country_code": "CN",
+      "country_name": "China",
+      "rank": 3122,
+      "score": 4,
+      "finish_time": 1552189591,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 52,
+      "username": "yun-lai-yun-qu-_2020",
+      "user_slug": "yun-lai-yun-qu-_2020",
       "country_code": "",
       "country_name": null,
       "rank": 3123,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189593,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "sergioame",
+      "user_slug": "sergioame",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3124,
+      "score": 4,
+      "finish_time": 1552189615,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "tomcatxiong2",
-      "user_slug": "tomcatxiong2",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 3124,
-      "score": 0,
-      "finish_time": 1552185000,
+      "contest_id": 52,
+      "username": "diaowzh5",
+      "user_slug": "diaowzh5",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3125,
+      "score": 4,
+      "finish_time": 1552189625,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
@@ -135774,301 +137949,301 @@
     },
     {
       "contest_id": 149,
-      "username": "wzding",
-      "user_slug": "wzding",
+      "username": "venkim",
+      "user_slug": "venkim",
       "country_code": "",
       "country_name": null,
-      "rank": 3150,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "gagarwal",
-      "user_slug": "gagarwal",
-      "country_code": "US",
-      "country_name": "United States",
       "rank": 3151,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189910,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "RobberPhex",
-      "user_slug": "robberphex",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "Cici_xixi",
+      "user_slug": "cici_xixi",
+      "country_code": "",
+      "country_name": null,
       "rank": 3152,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189923,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "itshari",
-      "user_slug": "itshari",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "fmooney",
+      "user_slug": "fmooney",
+      "country_code": "",
+      "country_name": null,
       "rank": 3153,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189924,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "mnjcqwi",
-      "user_slug": "mnjcqwi",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "huangx178",
+      "user_slug": "huangx178",
+      "country_code": "CA",
+      "country_name": "Canada",
       "rank": 3154,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189942,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "pravaria",
-      "user_slug": "pravaria",
+      "username": "beagle910",
+      "user_slug": "beagle910",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3155,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189954,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "sachin_96",
-      "user_slug": "sachin_96",
-      "country_code": "IN",
-      "country_name": "India",
+      "username": "yadlapalli",
+      "user_slug": "yadlapalli",
+      "country_code": "",
+      "country_name": null,
       "rank": 3156,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189955,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "VinceRicardo",
-      "user_slug": "vincericardo",
+      "username": "baukabai",
+      "user_slug": "baukabai",
       "country_code": "",
       "country_name": null,
       "rank": 3157,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189957,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "saqilalala",
-      "user_slug": "saqilalala",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3158,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "handsaomeboy",
-      "user_slug": "handsaomeboy",
+      "username": "kiran711",
+      "user_slug": "kiran711",
       "country_code": "",
       "country_name": null,
+      "rank": 3158,
+      "score": 4,
+      "finish_time": 1552189960,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "zziz",
+      "user_slug": "zziz",
+      "country_code": "",
+      "country_name": "",
       "rank": 3159,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189962,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "notanymore",
-      "user_slug": "notanymore",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "shiminlei",
+      "user_slug": "shiminlei",
+      "country_code": "",
+      "country_name": null,
       "rank": 3160,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189962,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "gillespiecd",
-      "user_slug": "gillespiecd",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "yakiyakiyakiyaki",
+      "user_slug": "yakiyakiyakiyaki",
+      "country_code": "",
+      "country_name": null,
       "rank": 3161,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189964,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "khalsa1690",
-      "user_slug": "khalsa1690",
-      "country_code": "US",
-      "country_name": "United States",
+      "contest_id": 52,
+      "username": "bestfancc",
+      "user_slug": "bestfancc",
+      "country_code": "",
+      "country_name": null,
       "rank": 3162,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189977,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "jwyx3",
-      "user_slug": "jwyx3",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "LQ0611",
+      "user_slug": "lq0611",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3163,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552189992,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "kimzenu",
-      "user_slug": "kimzenu",
+      "username": "roman8422",
+      "user_slug": "roman8422",
       "country_code": "",
       "country_name": null,
       "rank": 3164,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190020,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "dgi",
-      "user_slug": "dgi",
+      "username": "anmingyu11",
+      "user_slug": "anmingyu11",
       "country_code": "CN",
       "country_name": "China",
       "rank": 3165,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190037,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "sdevired",
-      "user_slug": "sdevired",
+      "username": "oorja",
+      "user_slug": "oorja",
       "country_code": "IN",
       "country_name": "India",
       "rank": 3166,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190044,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "safarizhou",
-      "user_slug": "safarizhou",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3167,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "xiaoyuhen",
-      "user_slug": "xiaoyuhen",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 3168,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "gradyjenkins",
-      "user_slug": "gradyjenkins",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3169,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "weAll",
-      "user_slug": "weall",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3170,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "Onteru",
-      "user_slug": "onteru",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3171,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "hhr19970204",
-      "user_slug": "hhr19970204",
-      "country_code": "CN",
-      "country_name": "China",
-      "rank": 3172,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "niti26khanna",
-      "user_slug": "niti26khanna",
+      "username": "huangziyin",
+      "user_slug": "huangziyin",
       "country_code": "",
       "country_name": null,
-      "rank": 3173,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3167,
+      "score": 4,
+      "finish_time": 1552190063,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Leo_Code",
-      "user_slug": "leo_code",
+      "username": "lchen139",
+      "user_slug": "lchen139",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3168,
+      "score": 4,
+      "finish_time": 1552190068,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "kala725",
+      "user_slug": "kala725",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3169,
+      "score": 4,
+      "finish_time": 1552190070,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "yahiko-r",
+      "user_slug": "yahiko-r",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3170,
+      "score": 4,
+      "finish_time": 1552190079,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "shivampatidar3211",
+      "user_slug": "shivampatidar3211",
+      "country_code": "IN",
+      "country_name": "India",
+      "rank": 3171,
+      "score": 4,
+      "finish_time": 1552190097,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "djha",
+      "user_slug": "djha",
       "country_code": "US",
       "country_name": "United States",
+      "rank": 3172,
+      "score": 4,
+      "finish_time": 1552190105,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "e123097",
+      "user_slug": "e123097",
+      "country_code": "US",
+      "country_name": "United States",
+      "rank": 3173,
+      "score": 4,
+      "finish_time": 1552190114,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "mayankchauhan",
+      "user_slug": "mayankchauhan",
+      "country_code": "",
+      "country_name": null,
       "rank": 3174,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190131,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "bluesky2",
+      "user_slug": "bluesky2",
+      "country_code": "US",
+      "country_name": "United States",
+      "rank": 3175,
+      "score": 4,
+      "finish_time": 1552190133,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -136374,301 +138549,301 @@
     },
     {
       "contest_id": 149,
-      "username": "Moonpire00",
-      "user_slug": "moonpire00",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3200,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "psia12345",
-      "user_slug": "psia12345",
+      "username": "indish",
+      "user_slug": "indish",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3201,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190481,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "lawmicha",
-      "user_slug": "lawmicha",
-      "country_code": "US",
-      "country_name": "United States",
+      "contest_id": 52,
+      "username": "jaron-4",
+      "user_slug": "jaron-4",
+      "country_code": "",
+      "country_name": null,
       "rank": 3202,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190489,
       "global_ranking": 0,
-      "data_region": "US"
+      "data_region": "CN"
     },
     {
       "contest_id": 149,
-      "username": "Cnu",
-      "user_slug": "cnu",
+      "username": "armanbd8",
+      "user_slug": "armanbd8",
       "country_code": "",
       "country_name": null,
       "rank": 3203,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190500,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "hiren11",
-      "user_slug": "hiren11",
+      "username": "Shawn0707",
+      "user_slug": "shawn0707",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3204,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190502,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "AlexLJ",
-      "user_slug": "alexlj",
+      "username": "qtds35k",
+      "user_slug": "qtds35k",
       "country_code": "",
       "country_name": null,
       "rank": 3205,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190537,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "papri",
-      "user_slug": "papri",
+      "username": "junbin731",
+      "user_slug": "junbin731",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3206,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190561,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "MFrank",
-      "user_slug": "mfrank",
+      "username": "hangzhu",
+      "user_slug": "hangzhu",
       "country_code": "",
       "country_name": null,
       "rank": 3207,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190566,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "cthbst",
-      "user_slug": "cthbst",
-      "country_code": "TW",
-      "country_name": "Taiwan",
+      "username": "Carolusian",
+      "user_slug": "carolusian",
+      "country_code": "",
+      "country_name": null,
       "rank": 3208,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190627,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "karan096",
-      "user_slug": "karan096",
+      "username": "huange",
+      "user_slug": "huange",
       "country_code": "",
       "country_name": null,
       "rank": 3209,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190693,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "tomo_c",
-      "user_slug": "tomo_c",
-      "country_code": "HR",
-      "country_name": "Croatia",
+      "username": "miyaviYa",
+      "user_slug": "miyaviya",
+      "country_code": "",
+      "country_name": null,
       "rank": 3210,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190705,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "HuRay",
-      "user_slug": "huray",
+      "username": "shivacharan",
+      "user_slug": "shivacharan",
       "country_code": "",
       "country_name": null,
       "rank": 3211,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190766,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "lingxiaoxue",
-      "user_slug": "lingxiaoxue",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "ZSShen",
+      "user_slug": "zsshen",
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "rank": 3212,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190806,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "coder1414",
-      "user_slug": "coder1414",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "ken90242",
+      "user_slug": "ken90242",
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "rank": 3213,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190886,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Sneha_P",
-      "user_slug": "sneha_p",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "zxd117721",
+      "user_slug": "zxd117721",
+      "country_code": "",
+      "country_name": null,
       "rank": 3214,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190897,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "hl2017v1",
-      "user_slug": "hl2017v1",
+      "username": "NehaTirumalasetti",
+      "user_slug": "nehatirumalasetti",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3215,
+      "score": 4,
+      "finish_time": 1552190920,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "xiaowenwu3",
+      "user_slug": "xiaowenwu3",
       "country_code": "US",
       "country_name": "United States",
-      "rank": 3215,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "zhouV",
-      "user_slug": "zhouv",
-      "country_code": "CN",
-      "country_name": "China",
       "rank": 3216,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190933,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "rohithr75",
-      "user_slug": "rohithr75",
+      "username": "deepa2",
+      "user_slug": "deepa2",
       "country_code": "",
       "country_name": null,
       "rank": 3217,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190936,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "bili63",
-      "user_slug": "bili63",
-      "country_code": "IN",
-      "country_name": "India",
+      "username": "sid_pati",
+      "user_slug": "sid_pati",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3218,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190946,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "chenjihust",
-      "user_slug": "chenjihust",
+      "username": "InfiniteFlame",
+      "user_slug": "infiniteflame",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3219,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552190971,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "vcsavinash",
-      "user_slug": "vcsavinash",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3220,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "krupal",
-      "user_slug": "krupal",
-      "country_code": "US",
-      "country_name": "United States",
-      "rank": 3221,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "priyeshnn",
-      "user_slug": "priyeshnn",
+      "username": "amitnsky",
+      "user_slug": "amitnsky",
       "country_code": "IN",
       "country_name": "India",
-      "rank": 3222,
-      "score": 0,
-      "finish_time": 1552185000,
+      "rank": 3220,
+      "score": 4,
+      "finish_time": 1552190972,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
       "contest_id": 149,
-      "username": "Zrn13",
-      "user_slug": "zrn13",
+      "username": "wei69",
+      "user_slug": "wei69",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3221,
+      "score": 4,
+      "finish_time": 1552190982,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "annie2018",
+      "user_slug": "annie2018",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3222,
+      "score": 4,
+      "finish_time": 1552191036,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "Joanne_Lin",
+      "user_slug": "joanne_lin",
       "country_code": "",
       "country_name": null,
       "rank": 3223,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552191079,
       "global_ranking": 0,
       "data_region": "US"
     },
     {
-      "contest_id": 149,
-      "username": "ShailyKhare",
-      "user_slug": "shailykhare",
-      "country_code": "US",
-      "country_name": "United States",
+      "contest_id": 52,
+      "username": "FDVlDxdk3x",
+      "user_slug": "FDVlDxdk3x",
+      "country_code": "",
+      "country_name": null,
       "rank": 3224,
-      "score": 0,
-      "finish_time": 1552185000,
+      "score": 4,
+      "finish_time": 1552191152,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 149,
+      "username": "liangkai0088",
+      "user_slug": "liangkai0088",
+      "country_code": "CN",
+      "country_name": "China",
+      "rank": 3225,
+      "score": 4,
+      "finish_time": 1552191184,
       "global_ranking": 0,
       "data_region": "US"
     },
@@ -136974,22 +139149,10 @@
     },
     {
       "contest_id": 149,
-      "username": "userpj",
-      "user_slug": "userpj",
-      "country_code": "",
-      "country_name": null,
-      "rank": 3250,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "Mamurbek",
-      "user_slug": "mamurbek",
-      "country_code": "KR",
-      "country_name": "South Korea",
+      "username": "zgcmx2011",
+      "user_slug": "zgcmx2011",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3251,
       "score": 0,
       "finish_time": 1552185000,
@@ -136998,8 +139161,8 @@
     },
     {
       "contest_id": 149,
-      "username": "rk13",
-      "user_slug": "rk13",
+      "username": "kratos4ever",
+      "user_slug": "kratos4ever",
       "country_code": "",
       "country_name": null,
       "rank": 3252,
@@ -137010,8 +139173,8 @@
     },
     {
       "contest_id": 149,
-      "username": "ChangRutgers",
-      "user_slug": "changrutgers",
+      "username": "jordandong",
+      "user_slug": "jordandong",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3253,
@@ -137022,10 +139185,10 @@
     },
     {
       "contest_id": 149,
-      "username": "esportsAlwaysSave",
-      "user_slug": "esportsalwayssave",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "0xfeng",
+      "user_slug": "0xfeng",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3254,
       "score": 0,
       "finish_time": 1552185000,
@@ -137034,10 +139197,10 @@
     },
     {
       "contest_id": 149,
-      "username": "sorassuji",
-      "user_slug": "sorassuji",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "ibmtp380",
+      "user_slug": "ibmtp380",
+      "country_code": "AL",
+      "country_name": "Albania",
       "rank": 3255,
       "score": 0,
       "finish_time": 1552185000,
@@ -137046,10 +139209,10 @@
     },
     {
       "contest_id": 149,
-      "username": "topcoderkz",
-      "user_slug": "topcoderkz",
-      "country_code": "KZ",
-      "country_name": "Kazakhstan",
+      "username": "123456",
+      "user_slug": "123456",
+      "country_code": "",
+      "country_name": null,
       "rank": 3256,
       "score": 0,
       "finish_time": 1552185000,
@@ -137058,10 +139221,10 @@
     },
     {
       "contest_id": 149,
-      "username": "davepurvil",
-      "user_slug": "davepurvil",
-      "country_code": "",
-      "country_name": null,
+      "username": "xm1223",
+      "user_slug": "xm1223",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3257,
       "score": 0,
       "finish_time": 1552185000,
@@ -137070,10 +139233,10 @@
     },
     {
       "contest_id": 149,
-      "username": "yuquanw2",
-      "user_slug": "yuquanw2",
-      "country_code": "",
-      "country_name": null,
+      "username": "bahamut",
+      "user_slug": "bahamut",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3258,
       "score": 0,
       "finish_time": 1552185000,
@@ -137082,10 +139245,10 @@
     },
     {
       "contest_id": 149,
-      "username": "silvermochi",
-      "user_slug": "silvermochi",
-      "country_code": "",
-      "country_name": null,
+      "username": "Angie-yue",
+      "user_slug": "angie-yue",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3259,
       "score": 0,
       "finish_time": 1552185000,
@@ -137094,10 +139257,10 @@
     },
     {
       "contest_id": 149,
-      "username": "chunyanli",
-      "user_slug": "chunyanli",
-      "country_code": "",
-      "country_name": null,
+      "username": "jplus",
+      "user_slug": "jplus",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3260,
       "score": 0,
       "finish_time": 1552185000,
@@ -137106,10 +139269,10 @@
     },
     {
       "contest_id": 149,
-      "username": "wadada",
-      "user_slug": "wadada",
-      "country_code": "",
-      "country_name": null,
+      "username": "hack_u",
+      "user_slug": "hack_u",
+      "country_code": "IN",
+      "country_name": "India",
       "rank": 3261,
       "score": 0,
       "finish_time": 1552185000,
@@ -137118,10 +139281,10 @@
     },
     {
       "contest_id": 149,
-      "username": "MaxWen",
-      "user_slug": "maxwen",
-      "country_code": "",
-      "country_name": null,
+      "username": "qiezifxj",
+      "user_slug": "qiezifxj",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3262,
       "score": 0,
       "finish_time": 1552185000,
@@ -137130,10 +139293,10 @@
     },
     {
       "contest_id": 149,
-      "username": "ckong",
-      "user_slug": "ckong",
-      "country_code": "HK",
-      "country_name": "Hong Kong",
+      "username": "ryanlr",
+      "user_slug": "ryanlr",
+      "country_code": "",
+      "country_name": null,
       "rank": 3263,
       "score": 0,
       "finish_time": 1552185000,
@@ -137142,8 +139305,8 @@
     },
     {
       "contest_id": 149,
-      "username": "san_py",
-      "user_slug": "san_py",
+      "username": "0906404008",
+      "user_slug": "0906404008",
       "country_code": "",
       "country_name": null,
       "rank": 3264,
@@ -137154,8 +139317,8 @@
     },
     {
       "contest_id": 149,
-      "username": "kentczf",
-      "user_slug": "kentczf",
+      "username": "azheanda",
+      "user_slug": "azheanda",
       "country_code": "",
       "country_name": null,
       "rank": 3265,
@@ -137166,10 +139329,10 @@
     },
     {
       "contest_id": 149,
-      "username": "ayyildiz",
-      "user_slug": "ayyildiz",
-      "country_code": "NL",
-      "country_name": "Netherlands",
+      "username": "leo2",
+      "user_slug": "leo2",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3266,
       "score": 0,
       "finish_time": 1552185000,
@@ -137178,10 +139341,10 @@
     },
     {
       "contest_id": 149,
-      "username": "Q2328uincy",
-      "user_slug": "q2328uincy",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "sc269",
+      "user_slug": "sc269",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3267,
       "score": 0,
       "finish_time": 1552185000,
@@ -137190,8 +139353,8 @@
     },
     {
       "contest_id": 149,
-      "username": "sddhrthrt",
-      "user_slug": "sddhrthrt",
+      "username": "1064no1carry",
+      "user_slug": "1064no1carry",
       "country_code": "",
       "country_name": null,
       "rank": 3268,
@@ -137202,10 +139365,10 @@
     },
     {
       "contest_id": 149,
-      "username": "ivane",
-      "user_slug": "ivane",
-      "country_code": "",
-      "country_name": null,
+      "username": "liamchzh",
+      "user_slug": "liamchzh",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3269,
       "score": 0,
       "finish_time": 1552185000,
@@ -137214,10 +139377,10 @@
     },
     {
       "contest_id": 149,
-      "username": "yongzx",
-      "user_slug": "yongzx",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "daemonwong9",
+      "user_slug": "daemonwong9",
+      "country_code": "",
+      "country_name": null,
       "rank": 3270,
       "score": 0,
       "finish_time": 1552185000,
@@ -137226,10 +139389,10 @@
     },
     {
       "contest_id": 149,
-      "username": "pavakj",
-      "user_slug": "pavakj",
-      "country_code": "",
-      "country_name": null,
+      "username": "wlxiong",
+      "user_slug": "wlxiong",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3271,
       "score": 0,
       "finish_time": 1552185000,
@@ -137238,8 +139401,8 @@
     },
     {
       "contest_id": 149,
-      "username": "jafri",
-      "user_slug": "jafri",
+      "username": "duup",
+      "user_slug": "duup",
       "country_code": "",
       "country_name": null,
       "rank": 3272,
@@ -137250,8 +139413,8 @@
     },
     {
       "contest_id": 149,
-      "username": "fighting_for_flag",
-      "user_slug": "fighting_for_flag",
+      "username": "dage1357",
+      "user_slug": "dage1357",
       "country_code": "CN",
       "country_name": "China",
       "rank": 3273,
@@ -137262,11 +139425,23 @@
     },
     {
       "contest_id": 149,
-      "username": "SHARMISTHAWWE",
-      "user_slug": "sharmisthawwe",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "ktang",
+      "user_slug": "ktang",
+      "country_code": "",
+      "country_name": null,
       "rank": 3274,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "YellowNautilus",
+      "user_slug": "yellownautilus",
+      "country_code": "",
+      "country_name": null,
+      "rank": 3275,
       "score": 0,
       "finish_time": 1552185000,
       "global_ranking": 0,
@@ -137574,22 +139749,10 @@
     },
     {
       "contest_id": 149,
-      "username": "renyueshenhua",
-      "user_slug": "renyueshenhua",
+      "username": "bakey",
+      "user_slug": "bakey",
       "country_code": "CN",
       "country_name": "China",
-      "rank": 3300,
-      "score": 0,
-      "finish_time": 1552185000,
-      "global_ranking": 0,
-      "data_region": "US"
-    },
-    {
-      "contest_id": 149,
-      "username": "pkmdotsoftpro",
-      "user_slug": "pkmdotsoftpro",
-      "country_code": "",
-      "country_name": null,
       "rank": 3301,
       "score": 0,
       "finish_time": 1552185000,
@@ -137598,10 +139761,10 @@
     },
     {
       "contest_id": 149,
-      "username": "kavindesai",
-      "user_slug": "kavindesai",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "liuwujijay",
+      "user_slug": "liuwujijay",
+      "country_code": "",
+      "country_name": null,
       "rank": 3302,
       "score": 0,
       "finish_time": 1552185000,
@@ -137610,10 +139773,10 @@
     },
     {
       "contest_id": 149,
-      "username": "doronin",
-      "user_slug": "doronin",
-      "country_code": "",
-      "country_name": null,
+      "username": "taihejin",
+      "user_slug": "taihejin",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3303,
       "score": 0,
       "finish_time": 1552185000,
@@ -137622,10 +139785,10 @@
     },
     {
       "contest_id": 149,
-      "username": "atul555",
-      "user_slug": "atul555",
-      "country_code": "",
-      "country_name": null,
+      "username": "adityanl",
+      "user_slug": "adityanl",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3304,
       "score": 0,
       "finish_time": 1552185000,
@@ -137634,8 +139797,8 @@
     },
     {
       "contest_id": 149,
-      "username": "coarlliu6",
-      "user_slug": "coarlliu6",
+      "username": "vidda",
+      "user_slug": "vidda",
       "country_code": "US",
       "country_name": "United States",
       "rank": 3305,
@@ -137646,10 +139809,10 @@
     },
     {
       "contest_id": 149,
-      "username": "rz1189",
-      "user_slug": "rz1189",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "nikeasyanzi",
+      "user_slug": "nikeasyanzi",
+      "country_code": "TW",
+      "country_name": "Taiwan",
       "rank": 3306,
       "score": 0,
       "finish_time": 1552185000,
@@ -137658,10 +139821,10 @@
     },
     {
       "contest_id": 149,
-      "username": "harishj1729",
-      "user_slug": "harishj1729",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "flynn12",
+      "user_slug": "flynn12",
+      "country_code": "",
+      "country_name": null,
       "rank": 3307,
       "score": 0,
       "finish_time": 1552185000,
@@ -137670,10 +139833,10 @@
     },
     {
       "contest_id": 149,
-      "username": "GoldShadow",
-      "user_slug": "goldshadow",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "su03121231",
+      "user_slug": "su03121231",
+      "country_code": "",
+      "country_name": null,
       "rank": 3308,
       "score": 0,
       "finish_time": 1552185000,
@@ -137682,8 +139845,8 @@
     },
     {
       "contest_id": 149,
-      "username": "liqingbeat",
-      "user_slug": "liqingbeat",
+      "username": "qcloud",
+      "user_slug": "qcloud",
       "country_code": "",
       "country_name": null,
       "rank": 3309,
@@ -137694,10 +139857,10 @@
     },
     {
       "contest_id": 149,
-      "username": "zhangtgz",
-      "user_slug": "zhangtgz",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "zoetian",
+      "user_slug": "zoetian",
+      "country_code": "CA",
+      "country_name": "Canada",
       "rank": 3310,
       "score": 0,
       "finish_time": 1552185000,
@@ -137706,8 +139869,8 @@
     },
     {
       "contest_id": 149,
-      "username": "monic",
-      "user_slug": "monic",
+      "username": "nixed",
+      "user_slug": "nixed",
       "country_code": "",
       "country_name": null,
       "rank": 3311,
@@ -137718,10 +139881,10 @@
     },
     {
       "contest_id": 149,
-      "username": "bene802",
-      "user_slug": "bene802",
-      "country_code": "",
-      "country_name": null,
+      "username": "Venkatkumar",
+      "user_slug": "venkatkumar",
+      "country_code": "IN",
+      "country_name": "India",
       "rank": 3312,
       "score": 0,
       "finish_time": 1552185000,
@@ -137730,10 +139893,10 @@
     },
     {
       "contest_id": 149,
-      "username": "hailin123",
-      "user_slug": "hailin123",
-      "country_code": "",
-      "country_name": null,
+      "username": "kw0916",
+      "user_slug": "kw0916",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3313,
       "score": 0,
       "finish_time": 1552185000,
@@ -137742,10 +139905,10 @@
     },
     {
       "contest_id": 149,
-      "username": "Iris_Wang",
-      "user_slug": "iris_wang",
-      "country_code": "CN",
-      "country_name": "China",
+      "username": "clonyl",
+      "user_slug": "clonyl",
+      "country_code": "",
+      "country_name": null,
       "rank": 3314,
       "score": 0,
       "finish_time": 1552185000,
@@ -137754,10 +139917,10 @@
     },
     {
       "contest_id": 149,
-      "username": "bkkwok",
-      "user_slug": "bkkwok",
-      "country_code": "",
-      "country_name": null,
+      "username": "yuhuang",
+      "user_slug": "yuhuang",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3315,
       "score": 0,
       "finish_time": 1552185000,
@@ -137766,10 +139929,10 @@
     },
     {
       "contest_id": 149,
-      "username": "sitchenchao",
-      "user_slug": "sitchenchao",
-      "country_code": "",
-      "country_name": null,
+      "username": "tiantian2016",
+      "user_slug": "tiantian2016",
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 3316,
       "score": 0,
       "finish_time": 1552185000,
@@ -137778,10 +139941,10 @@
     },
     {
       "contest_id": 149,
-      "username": "hellozhengwenqi",
-      "user_slug": "hellozhengwenqi",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "amrtri3",
+      "user_slug": "amrtri3",
+      "country_code": "",
+      "country_name": null,
       "rank": 3317,
       "score": 0,
       "finish_time": 1552185000,
@@ -137790,8 +139953,8 @@
     },
     {
       "contest_id": 149,
-      "username": "annaluciaa",
-      "user_slug": "annaluciaa",
+      "username": "jhshi129765",
+      "user_slug": "jhshi129765",
       "country_code": "",
       "country_name": null,
       "rank": 3318,
@@ -137802,10 +139965,10 @@
     },
     {
       "contest_id": 149,
-      "username": "prudhvigali",
-      "user_slug": "prudhvigali",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "dploop",
+      "user_slug": "dploop",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3319,
       "score": 0,
       "finish_time": 1552185000,
@@ -137814,10 +139977,10 @@
     },
     {
       "contest_id": 149,
-      "username": "mani-cash",
-      "user_slug": "mani-cash",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "Scienceboy06",
+      "user_slug": "scienceboy06",
+      "country_code": "",
+      "country_name": null,
       "rank": 3320,
       "score": 0,
       "finish_time": 1552185000,
@@ -137826,10 +139989,10 @@
     },
     {
       "contest_id": 149,
-      "username": "s870s12",
-      "user_slug": "s870s12",
-      "country_code": "",
-      "country_name": null,
+      "username": "dolare",
+      "user_slug": "dolare",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3321,
       "score": 0,
       "finish_time": 1552185000,
@@ -137838,8 +140001,8 @@
     },
     {
       "contest_id": 149,
-      "username": "itsvamshiks",
-      "user_slug": "itsvamshiks",
+      "username": "MeifangChen",
+      "user_slug": "meifangchen",
       "country_code": "",
       "country_name": null,
       "rank": 3322,
@@ -137850,10 +140013,10 @@
     },
     {
       "contest_id": 149,
-      "username": "xiaoyang_zhang",
-      "user_slug": "xiaoyang_zhang",
-      "country_code": "US",
-      "country_name": "United States",
+      "username": "justless",
+      "user_slug": "justless",
+      "country_code": "CN",
+      "country_name": "China",
       "rank": 3323,
       "score": 0,
       "finish_time": 1552185000,
@@ -137862,11 +140025,23 @@
     },
     {
       "contest_id": 149,
-      "username": "shiv_4feb",
-      "user_slug": "shiv_4feb",
+      "username": "gnayoaix",
+      "user_slug": "gnayoaix",
       "country_code": "",
       "country_name": null,
       "rank": 3324,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "US"
+    },
+    {
+      "contest_id": 149,
+      "username": "wxwwxw",
+      "user_slug": "wxwwxw",
+      "country_code": "US",
+      "country_name": "United States",
+      "rank": 3325,
       "score": 0,
       "finish_time": 1552185000,
       "global_ranking": 0,
@@ -151004,8 +153179,8 @@
       "contest_id": 149,
       "username": "HumbleHarvest",
       "user_slug": "humbleharvest",
-      "country_code": "",
-      "country_name": null,
+      "country_code": "US",
+      "country_name": "United States",
       "rank": 4420,
       "score": 0,
       "finish_time": 1552185000,
@@ -154667,6 +156842,102 @@
       "country_code": "",
       "country_name": null,
       "rank": 4725,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "tsmart",
+      "user_slug": "tsmart",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4726,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "milestin",
+      "user_slug": "milestin",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4727,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "hao-45",
+      "user_slug": "hao-45",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4728,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "feng-yun-5",
+      "user_slug": "feng-yun-5",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4729,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "mi-lu-xian-sheng",
+      "user_slug": "mi-lu-xian-sheng",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4730,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "sheng-xia-ye",
+      "user_slug": "sheng-xia-ye",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4731,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "sum_tudou",
+      "user_slug": "sum_tudou",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4732,
+      "score": 0,
+      "finish_time": 1552185000,
+      "global_ranking": 0,
+      "data_region": "CN"
+    },
+    {
+      "contest_id": 52,
+      "username": "xiao-er-jiu",
+      "user_slug": "xiao-er-jiu",
+      "country_code": "",
+      "country_name": null,
+      "rank": 4733,
       "score": 0,
       "finish_time": 1552185000,
       "global_ranking": 0,
