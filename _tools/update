@@ -37,6 +37,7 @@ function prepare(ctx) {
           solved: rw[m.id].solved,
           score: score,
           players: ctx.contests[i].players,
+          score_url: 'https://leetcode.com/contest/' + c.titleSlug + '/ranking/' + Math.ceil(rw[m.id].ranking / 25) + '/',
         });
       } else {
         record.contests.push(null);

@@ -28,6 +28,8 @@ module.exports = {
     { id: 'XYang93', nickname: '°' },
     { id: 'softair', nickname: '程川' },
     { id: 'OneDirection', nickname: 'Warmer' },
+    { id: 'wyzhang421', nickname: 'Wanying Zhang' },
+    { id: 'mengqiang', nickname: '米兰的小铁匠' },
   ],
 };
 

@@ -29,11 +29,12 @@ html
               if contest
                 td #{contest.ranking}
                 td
-                  each s in contest.solved
-                    if s
-                      .fa.fa-star
-                    else
-                      .fa.fa-star-o
+                  a(href=contest.score_url target='_blank')
+                    each s in contest.solved
+                      if s
+                        .fa.fa-star
+                      else
+                        .fa.fa-star-o
                 td #{sprintf("%.1f",contest.score)}
               else
                 td
