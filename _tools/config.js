@@ -36,6 +36,9 @@ module.exports = {
     { id: 'jliang', nickname: '🐻' },
     { id: 'chanceliu', nickname: '刘畅斯 Chance' },
     { id: 'yexiaoxiao2102', nickname: '小叶叶叶叶叶叶' },
+    { id: 'Coder35', nickname: '郑凯宇' },
+    { id: 'fuxuemingzhu', nickname: '负雪明烛' },
+    { id: 'Spencial', nickname: 'spencial' },
   ],
 };
 
