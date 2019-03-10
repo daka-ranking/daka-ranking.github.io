@@ -1,5 +1,5 @@
 module.exports = {
-  recents: 3,
+  recents: 1,
   members: [
     { id: 'pjincz', nickname: '洗剪吹总监' },
     { id: 'cuiaoxiang', nickname: 'cuiaoxiang' },
