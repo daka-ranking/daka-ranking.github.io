@@ -29,7 +29,7 @@ module.exports = {
     { id: 'softair', nickname: '程川' },
     { id: 'OneDirection', nickname: 'Warmer' },
     { id: 'wyzhang421', nickname: 'Wanying Zhang' },
-    { id: 'mengqiang', nickname: '米兰的小铁匠' },
+    { id: 'Mengqian', nickname: '米兰的小铁匠' },
     { id: 'xfzhao', nickname: 'edu' },
     { id: 'hfuwu5', nickname: 'Andrew' },
     { id: 'user4286', nickname: 'coo' },
@@ -43,7 +43,7 @@ module.exports = {
     { id: 'sdliuyuzhi', nickname: '喜刷刷' },
     { id: 'Ansonluo1', nickname: 'Anson' },
     { id: 'icodingg', nickname: '暮鼓晨钟' },
+    { id: 'zchen9523', nickname: '知知🥗🥗' },
   ],
 };
-
 
