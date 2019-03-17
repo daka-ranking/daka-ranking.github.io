@@ -48,6 +48,7 @@ module.exports = {
     { id: 'fyang618', nickname: '杨凡' },
     { id: 'ninjadq', nickname: 'DQ' },
     { id: 'zexingfa', nickname: 'Jersin🌟' },
+    { id: 'XingxingHuang', nickname: '黄xing' },
   ],
 };
 
