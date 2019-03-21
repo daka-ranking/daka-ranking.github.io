@@ -45,13 +45,20 @@ function prepare(ctx) {
       }
 
       var scores = record.contests.map(x => x ? x.score : 0);
+      record.scores = scores;
       record.score = scores[scores.length - 1];
     }
 
     records.push(record);
   }
 
-  records.sort((a,b) => b.score - a.score);
+  records.sort(function(a, b) {
+    for (var i = a.scores.length - 1; i >= 0; --i) {
+      if (a.scores[i] != b.scores[i])
+        return b.scores[i] - a.scores[i];
+    }
+    return 0;
+  });
 
   ctx.records = records;
 }
