@@ -52,6 +52,9 @@ module.exports = {
     { id: 'Piterep', nickname: '彼得大帝' },
     { id: 'hgzry812', nickname: 'yuzi' },
     { id: 'wolf940509', nickname: '王瀚' },
+    { id: 'xiaotang923', nickname: '璞员外' },
+    { id: 'yishun', nickname: '一瞬' },
+    { id: 'imaginationsuper', nickname: '李世杰' },
   ],
 };
 
