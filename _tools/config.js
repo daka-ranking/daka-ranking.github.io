@@ -54,7 +54,7 @@ module.exports = {
     { id: 'wolf940509', nickname: '王瀚' },
     { id: 'xiaotang923', nickname: '璞员外' },
     { id: 'yishun', nickname: '一瞬' },
-    { id: 'imaginationsuper', nickname: '李世杰' },
+    { id: 'imaginationsuper', nickname: '🌈李世杰🆒🤠✨' },
     { id: 'porkgyro', nickname: '🐷肉卷' },
     { id: 'hy30305340', nickname: '🐬🐬🐬' },
   ],
