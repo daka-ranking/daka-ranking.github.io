@@ -15,13 +15,11 @@ html
           each contest in contests
             th(colspan=3)
               a(href='https://leetcode.com/contest/' + contest.titleSlug) #{contest.title}
-          th Score
         tr
           th(style='width:1%') #
           th(style='width:1%') Participants
           each contest in contests
             th(colspan=3) #{contest.players}
-          th
         each record, i in records
           tr
             td #{i+1}
@@ -33,7 +31,7 @@ html
             each contest in record.contests
               if contest
                 td #{contest.ranking}
-                td
+                td.col-stars
                   a(href=contest.score_url target='_blank')
                     each s in contest.solved
                       if s
@@ -45,7 +43,6 @@ html
                 td
                 td
                 td
-            td #{sprintf("%.1f",record.score)}
 
     style.
       h1 {
@@ -68,6 +65,9 @@ html
       .score-table img {
         height: 24px;
         width: 24px;
+      }
+      .score-table .col-stars {
+        white-space: nowrap;
       }
       a:hover {
         text-decoration: none !important;
