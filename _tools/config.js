@@ -60,6 +60,7 @@ module.exports = {
     { id: 'tomdong05', nickname: '鞋子特大号' },
     { id: 'johnsysu', nickname: '陈风' },
     { id: 'wuweitong', nickname: '乌伟彤' },
+    { id: 'sshang', nickname: 'SSQ' },
   ],
 };
 
