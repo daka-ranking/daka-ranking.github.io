@@ -61,6 +61,7 @@ module.exports = {
     { id: 'johnsysu', nickname: '陈风' },
     { id: 'wuweitong', nickname: '乌伟彤' },
     { id: 'sshang', nickname: 'SSQ' },
+    { id: 'darrenfu', nickname: 'Darren' },
   ],
 };
 
