@@ -18,8 +18,8 @@ html
         tr
           th(style='width:1%') #
           th(style='width:1%') Participants
-          each contest in contests
-            th(colspan=3) #{contest.players}
+          each contest,i in contests
+            th(colspan=3) #{contest.players}(#{records.filter(r=>r.contests[i]).length})
         each record, i in records
           tr
             td #{i+1}

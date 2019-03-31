@@ -1,5 +1,5 @@
 module.exports = {
-  recents: 3,
+  recents: 4,
   members: [
     { id: 'pjincz', nickname: '洗剪吹总监' },
     { id: 'cuiaoxiang', nickname: 'cuiaoxiang' },
@@ -63,6 +63,7 @@ module.exports = {
     { id: 'sshang', nickname: 'SSQ' },
     { id: 'darrenfu', nickname: 'Darren' },
     { id: 'yuhaojia', nickname: '于耗子' },
+    { id: 'fjlivy', nickname: 'Deja Vu' },
   ],
 };
 
