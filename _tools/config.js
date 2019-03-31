@@ -64,6 +64,7 @@ module.exports = {
     { id: 'darrenfu', nickname: 'Darren' },
     { id: 'yuhaojia', nickname: '于耗子' },
     { id: 'fjlivy', nickname: 'Deja Vu' },
+    { id: 'KyleAC', nickname: 'Kyleจุ๊บ' },
   ],
 };
 
