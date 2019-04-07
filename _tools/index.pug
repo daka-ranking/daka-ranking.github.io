@@ -13,13 +13,13 @@ html
         tr
           th(colspan=2) Contest
           each contest in contests
-            th(colspan=3)
+            th(colspan=2)
               a(href='https://leetcode.com/contest/' + contest.titleSlug) #{contest.title}
         tr
           th(style='width:1%') #
           th(style='width:1%') Participants
           each contest,i in contests
-            th(colspan=3) #{contest.players}(#{records.filter(r=>r.contests[i]).length})
+            th(colspan=2) #{contest.players}(#{records.filter(r=>r.contests[i]).length})
         each record, i in records
           tr
             td #{i+1}
@@ -30,7 +30,7 @@ html
                 span #{record.nickname}
             each contest in record.contests
               if contest
-                td #{contest.ranking}
+                td.col-ranking #[small #]#{contest.ranking}
                 td.col-stars
                   a(href=contest.score_url target='_blank')
                     each s in contest.solved
@@ -38,11 +38,9 @@ html
                         .fa.fa-star
                       else
                         .fa.fa-star-o
-                td #{sprintf("%.1f",contest.score)}
               else
-                td
-                td
-                td
+                td.col-ranking
+                td.col-stars
 
     style.
       h1 {
@@ -68,13 +66,20 @@ html
       }
       .score-table .col-stars {
         white-space: nowrap;
+        text-align: left;
+        border-left: none;
+      }
+      .score-table .col-ranking {
+        text-align: right;
+        border-right: none;
+        color: #344;
       }
       a:hover {
         text-decoration: none !important;
       }
       .nickname {
         display: inline-block;
-        width: 200px;
+        max-width: 200px;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;

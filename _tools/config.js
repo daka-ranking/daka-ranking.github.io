@@ -1,5 +1,6 @@
 module.exports = {
-  recents: 4,
+  recents: 5,
+  since: 'weekly-contest-128',
   members: [
     { id: 'pjincz', nickname: '洗剪吹总监' },
     { id: 'cuiaoxiang', nickname: 'cuiaoxiang' },
