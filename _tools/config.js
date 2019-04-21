@@ -75,6 +75,8 @@ module.exports = {
     { id: 'Eladah', nickname: '萌术士' },
     { id: 'leaptwo', nickname: 'wargum' },
     { id: 'amylm', nickname: 'Lan M' },
+    { id: 'TOYAMA_NAO', nickname: '发廊复读机' },
+    { id: 'SuperTao', nickname: '一键优化: sudo rm -rf *' },
   ],
 };
 
