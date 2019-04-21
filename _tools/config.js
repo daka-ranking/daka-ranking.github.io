@@ -74,6 +74,7 @@ module.exports = {
     { id: 'schlage', nickname: 'Carmen Lok' },
     { id: 'Eladah', nickname: '萌术士' },
     { id: 'leaptwo', nickname: 'wargum' },
+    { id: 'amylm', nickname: 'Lan M' },
   ],
 };
 
