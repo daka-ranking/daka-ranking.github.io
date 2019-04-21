@@ -30,7 +30,7 @@ module.exports = {
     { id: 'softair', nickname: '程川' },
     { id: 'OneDirection', nickname: 'Warmer' },
     { id: 'wyzhang421', nickname: 'Wanying Zhang' },
-    { id: 'Mengqian', nickname: '米兰的小铁匠' },
+    { id: 'Mengqian', nickname: '目标是summer挣钱买单反' },
     { id: 'xfzhao', nickname: 'edu' },
     { id: 'hfuwu5', nickname: 'Andrew' },
     { id: 'user4286', nickname: 'coo' },
@@ -77,6 +77,11 @@ module.exports = {
     { id: 'amylm', nickname: 'Lan M' },
     { id: 'TOYAMA_NAO', nickname: '发廊复读机' },
     { id: 'SuperTao', nickname: '一键优化: sudo rm -rf *' },
+    { id: 'xingliuhit', nickname: '刘星' },
+    { id: 'clchenliang', nickname: '陈亮' },
+    { id: 'hjp709394', nickname: 'Jiapei Huang' },
+    { id: 'singyeleet', nickname: '非鱼' },
+    { id: 'missioncode', nickname: 'Jack' },
   ],
 };
 
