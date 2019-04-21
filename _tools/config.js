@@ -67,6 +67,13 @@ module.exports = {
     { id: 'fjlivy', nickname: 'Deja Vu' },
     { id: 'KyleAC', nickname: 'Kyleจุ๊บ' },
     { id: 'Lisanaaa', nickname: 'Lisanaaa' },
+    { id: 'deantt', nickname: 'T' },
+    { id: 'ElephantDee', nickname: '𓃰飞姐𓃰不是象象' },
+    { id: 'miaobulaji', nickname: '宇茜 Yuqian' },
+    { id: 'ordinateur', nickname: '異邦人' },
+    { id: 'schlage', nickname: 'Carmen Lok' },
+    { id: 'Eladah', nickname: '萌术士' },
+    { id: 'leaptwo', nickname: 'wargum' },
   ],
 };
 
