@@ -82,6 +82,10 @@ module.exports = {
     { id: 'hjp709394', nickname: 'Jiapei Huang' },
     { id: 'singyeleet', nickname: '非鱼' },
     { id: 'missioncode', nickname: 'Jack' },
+    { id: 'wuliaoke', nickname: 'didadi' },
+    { id: 'michaelchung', nickname: '张栩' },
+    { id: 'chenzian', nickname: 'Anson' },
+    { id: 'rgtjf', nickname: '田俊峰' },
   ],
 };
 
