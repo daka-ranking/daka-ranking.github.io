@@ -94,6 +94,7 @@ module.exports = {
     { id: 'ghoothp', nickname: '恭贺p' },
     { id: 'ghoothc', nickname: '恭贺c' },
     { id: 'hearson', nickname: 'Wenyu' },
+    { id: 'zwein27', nickname: 'ZwEin' },
   ],
 };
 
