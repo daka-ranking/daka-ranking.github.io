@@ -88,7 +88,7 @@ module.exports = {
     { id: 'rgtjf', nickname: '田俊峰' },
     { id: 'yoofor', nickname: 'Yufu Zhang' },
     { id: 'PZachary', nickname: '-SkySkySky' },
-    { id: 'dingyihua0708', nickname: '一桦' },
+    { id: 'msbaicai', nickname: '一桦' },
     { id: 'LittleBaldHead', nickname: 'ZHT' },
     { id: 'chenbaozhen', nickname: 'baozhen' },
     { id: 'ghoothp', nickname: '恭贺p' },
