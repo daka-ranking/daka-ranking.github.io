@@ -31,7 +31,7 @@ function convert(raw, users) {
 
     records.push({
       id: raw.total_rank[i].username,
-      ranking: rank.rank,
+      ranking: i + 1,
       solved: solved,
     });
   }
