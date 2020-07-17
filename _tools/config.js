@@ -101,6 +101,7 @@ module.exports = {
     { id: 'stephenyean71ABC', nickname: '袁星驰' },
     { id: 'jessiefsh', nickname: '舍予' },
     { id: 'gao288', nickname: '高旭飞' },
+    { id: 'anhpp', nickname: 'anhpp' },
   ],
 };
 
