@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "node-fetch": "^2.3.0",
     "node-fetch-retry": "^1.0.1",
     "promise-map-limit": "^1.0.0",
