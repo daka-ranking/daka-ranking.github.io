@@ -13,7 +13,7 @@
     "node-fetch": "^2.3.0",
     "node-fetch-retry": "^1.0.1",
     "promise-map-limit": "^1.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "sprintf": "^0.1.5"
   }
 }
